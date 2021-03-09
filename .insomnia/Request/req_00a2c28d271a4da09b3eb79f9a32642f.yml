@@ -1,0 +1,27 @@
+_id: req_00a2c28d271a4da09b3eb79f9a32642f
+type: Request
+parentId: fld_5f45c3116cae40889239a4e4df3be9be
+modified: 1559921957485
+created: 1559921957485
+url: http://82.255.165.197:8080/ccol/insurances-products/V00/validate-insurability
+name: validate-insurability_LOCAL
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: "\t{\r\n\t\t\"id\": \"DSPO\"\r\n\t}"
+parameters: []
+headers:
+  - name: ""
+    value: eJxt1MmOq0YAheFXueot6saMhSV3SxibwYAxkwFvIuYCl5kKMz19bqQkyiL7/6yO9B08nKe/tOz7gxayAuwS6jNO99knu2Oyz1gQ2M9iFxdAKCieK6iPX/d8wFXbfH9Qf+w+fg5S1cF8OMVj/AN3gD7drSPcLOAL4rq88dHym3cQVXTx0JpmLnDFKH1wIVfwlALOEnkRPIXk/kQTrU/T4ue3aDkBQqBsw30UfVRfFhavLI9aIWabfiHroaUjWyOFNLdvvjUz5lxvQDQvvE1Jy4OeTwzOzwBa8148U12fLnCbrEUzkvEpJiq6vQCCM8QX1tpi5unFoYXofWH4kvaUkxxEJ4UiVW1mMaHjqeTgKNV1144KzeninXw1DZ3pRZ8828AvCmuP1aROHiP5jg1ermVzjIWFc2/1dX2OzX0vX5Ebb0INmuiF6+Panh/MLu6m48kO4aQSust5MDhjPKi9qUYLFK2LctZa673pTa41UQZxKxmAGLPuNIDYoaShfd3tRd/8kOonKVhTLXqFgeMRQcrZ+2zH4FQyI9XX39pUPwlRWMz59sAZ1p3Jq/bRPQpFVb2DRhLPea3ZshkHLgLORUnoi30lZXNHXHLXG/065d94p4forgn+ZneyUe66Cp9k98EGIcPRhZCl2W2SJwN1BMJz1rsby4+uWvGh0K29Abrabpt3CR94asjgYbSdJ6hNy0Y1pI8VvGDHQQ6+kiVL8umoFmmZICHdIJ0Kunkf0bGmQWu3iCJ7M4C1xvdakjTbMgjjjVu8YsPQeL0e6FIX2gbF0d548HrqUtw1WMc1tCqTsPkdBEduUhZMj2h53OUraGGUIu+yqWPY0DdtDZZaoWi9ohrrNYiB5CSiMnEPLRr3jl602yYVmlmLOO3TrFFOk87ugt7wW0lq/QbnEEk6bc1PkaNT1xGuiXviKG/l1LelDUl3j/tSzHygLZ6yWb4Xkn5zfZfXBy2qAtUHHBBZJg977FcpkaLb2YCZMZxek3TPk4BDKiFlNpOXnURpufi8ow219M3sLh3DzPbENda5x2MnnTcUreFVFy3QcYtRKbF0/P2D3TvLKk4PhWY8XG7j6rTzMEaAktZQTJNm3r9wsBdoX+GkIy4MCGkhHI63uctMvnrByelgaRpXWWZ7Xs6E+KW8j4lNEjVpLorqugnIeUeHVhyW1eyARNaF61knmJo4s2inVWEwerx5LRx4uzLHbATj9IwGMyaScac7BL24i+yZ7Ky3Uulr4BmRlBRF29Ss67v8/j6Q/0Hmb3D0fBVRFeMfhJNkGr+y/Ctt0VdaFUP8Nf4W7StFcUr9M/03P5ybdFi78bdgIirboRrh6+d0dvMsJ6WjRN50yeVucZZVTXkg/y8+kH+B+fMn+9jFEw==
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1559921957485
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

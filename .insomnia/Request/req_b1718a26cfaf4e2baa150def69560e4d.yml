@@ -1,0 +1,32 @@
+_id: req_b1718a26cfaf4e2baa150def69560e4d
+type: Request
+parentId: fld_6271fb9c7adc467687e04b8406d91caa
+modified: 1598299509155
+created: 1598299260905
+url: https://150.250.140.41:8700/GlobalPosition/V01/customers/products
+name: posglo
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "filter": null
+    }
+parameters: []
+headers:
+  - id: pair_7fb696ec0894450890b0b4a77e2de316
+    name: tsec
+    value: eJxtlLeO42YAhF/lsC2xyyBGYG8BZlE/k8SsjlnMOVbu/ZZ+Eq8B38GF28E31WC+T3tK4x9K8vMtwigcJS7Ze0bSzDuOxMl7eCGYdxJjGIKgsQudJm8/3HSciq79+fZde/v6FNt4PPr5O2HrvBuL+dV8CaKVJinMczxsAt4izDBJijb/hP8P/uSL/pWOQjiHX/USI605hsyIBRJOCHQMddZ1KFjmamXM5llCOMQiw9IVVdEj4XsT0FS9zLZ6p8TumGHmfJQ418AK06/n1AR2z0J8Ej7g2KHhNGfCHAl73EhMdq4YkO1xLF1RASnmUDKI5DQ2XcQz9ZRzg47ahSefDQEXYlPDweMlGg+fTHoUxd3yGm7H3Ngx8/QqhIN5iA8Ea0NOLz9fS9jxa0TCOdAvwDZEVnI0G8Ob03gczWaBF4+1dB6Pp7ChGHV1NUTU0VsDXVAr7vNjVZz9NeLjSsvlCuFCtHXhrRqHrcXqTBYe592rAlKRPE01+rJFKnDAk0T799YuDFVlbBzvEY/JIIPLzG14lmZPiOKstqBzGoBSLucFBAbEYAcDlOTBGdtrLSkJExoO3Mjrgdj+AjFG3rojkag5N01dgBUEuLtnkD15C7kdqGZ0YB5bplEmedu9KtqvsR9be6iTxWVez6uuAUldPVo7bIecZXmC1lQAzKW9KdWd0lQWJgnSgKU8MF/97OAmnD1a0euH17Yzzyc49WQxk3zHoHt7O9njus1i5o8EQmEpeDrgRg3RPoDrzqY0l0E451wrmZYIhcwdeRLuDwx93Mz4Zuj+uEjLrnrbsBJRwbWIaCeA3GVZV/x2CduOsEqePx5POvAnQxJnhmWBIhG7fsud/RZYrVtiJO00Co7aCT0XYWzEhdAL36MvKXQhPcQWNNw+unBcCcNMMzVSo6oLNtMwJmNexMV4cVfJXUEqtm2op67G1cDlT8HlL1jJr0Ir87BoYX3WYpWfFZTanLSn8pkTEHoYb6u5M1aiD3V/JzYdbUNkidJBlY65Fh9WNZgnIShjNzFl3Q6JrskDYgqXrIs3anW12q5fR6JyQRkotQwupeOsoqGTWGhSZzeItmBIgTGD0heZULEXVg8tNY8o6rGu+vRsOFtDighbh2zsvKFMhOgWBCMUeJUzDlZlo0RkJtySSGYdW7VAj64emyPjl3duKRxDHXx6eKqU1RPLtwH+c/Z/jw/Sg62LcPqqpyha548k/Rin8GP+1stff/z5q/Gb+oT/8dXX39NclgA=
+  - id: pair_34bd7ac021914f6f8341cb69152daf45
+    name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1555082320677.6875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

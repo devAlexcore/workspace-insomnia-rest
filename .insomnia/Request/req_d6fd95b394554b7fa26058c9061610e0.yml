@@ -1,0 +1,30 @@
+_id: req_d6fd95b394554b7fa26058c9061610e0
+type: Request
+parentId: fld_6271fb9c7adc467687e04b8406d91caa
+modified: 1599062479330
+created: 1558188798077
+url: http://150.250.140.41:7700/vehicle-insurances/v0/traffic-accident-insurances/quotations?insuranceExpirationDate=2018-05-28&licencePlateNumber=EBX996
+name: cotiza nuevo
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_a9b67eac7dc7461b9d950e2ea810b347
+    name: licencePlateNumber
+    value: IWN641
+  - id: pair_054d676d70ad45589f39dd4f94fd24f7
+    name: insuranceExpirationDate
+    value: ""
+headers:
+  - id: pair_b9683031d1f949e89baaf1f286f96162
+    name: tsec
+    value: eJxtlMeuq2YAhF/l6mytc+lN8j0S1WAwxWAD3v1U09tPXWWft8yT5ERKoiyyHc2sZuY7e1Ma/9CSXx9MRFNJGsWfAKXZTxKLiE/AJewnzWEpzcR0RlHkx49nOk5F1/76+I59fJ3lNh73Hn4rfJ13YwHfzZcku2mSIqIgIrYuupQNkqRo8zPyf+azWPTvdJQABF/1HKOtPQJuxEOFpCQ2PnWuOhQ8p7oZt/quBIZY5ni2Yip2pAJ/0m+GWWZrvTFyt0OEO+4lKTSIxvXLMTWh1/MnzUfeL9xaiJwUwy7uY89sHg7JK2JwdCnzFJUjo20zvOy0MReN0N4ourw+pDi/YXqco9Cbie21cUwZ6LNU112cjM2C3CT8cZcvkW9T7VvMShg919lb6W2nB6nkUSrJAywItRnBlbRWgI7Gb3xZ388LMl+GbvGDJd6yPW8Py0LB0mz6Ms8MtRyHiUmwXAmC7n3cf/j7oWJDzywjycQGTawY9mD31eO07e7u0XHay63wYZJ0MnXK/fbAmj3U6MMvSwwxLtamtm2TeZkVydrC8+tjb+/KbkNn0ACA6QidFjXtYxdvswHVgDL3h5N0pEMXS3INsIFr2GcJrCl7AEHzEg/Hr0RY+oeAxQ7dUiUwLZ7gT2GTw0wTlCrH3lygiLdbIZn3vkOjNn8LPHZF7XRHpQS4kx4wQjyKT6vIsIZraSFiqmbq/C5J8MHnHEtEdRfOpXWkSTR5ncczYkA6bu7VSO+9zJenAG8ux4b09FwPntxJf4lqqIHkRq7YThorBq7jizHNJlUF0lzmqtIQI+evqZEWNt6D9yJRGtRXF7hDZEmGPcQKX3g5G7GIJ8ntRYEMxrSqLAOrfuMkT+OvEJy2zB2W1Y61q97FlzleD4ScHKTLL5l3RdjBCQy2RGqTH1oZvR6iv6ORIBiXUMwL+3SE93DbXjiCM9W9GoLvVn3cfdMFfGSvzJ1PPfJIxOLN+/ht702lO1WTN4zl5W5LccPIRZRO9UJV4rgT7jKHOre7UAkNBa5Q0SCAwmVhdZ2+0xWqDo/0ew7GTV2xgQ9UpHRVpaQRomHzwBEgh2I8yCmZNu7Q60+LtAo7imk1tSc77y9lhjpyOPOcEYSRRRT7YrxyJOLT1pnqEc0ZjCqELuzN2FX8Cs+1FIleQ6XWAvUwfOJ2BVvQVe6oc0+r01NfeJnrvRCxM/Kfs/99fD3d+boA01c9RdECfybpz3ECP+E3Xv747fd/Ev+6zshfvPr6ExZAlzA=
+authentication: {}
+metaSortKey: -1555082320676.125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

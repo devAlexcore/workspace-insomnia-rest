@@ -1,0 +1,32 @@
+_id: req_135f6e6b5fc94b86a33adfc2f789256a
+type: Request
+parentId: fld_5f45c3116cae40889239a4e4df3be9be
+modified: 1582815393565
+created: 1559921957480
+url: http://150.250.140.41:7700/insurances-products/v0/validate-insurability
+name: validate-insurability_DESARROLLO
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    	{
+    		"id": "SOAT"
+    	}
+parameters: []
+headers:
+  - id: pair_1fa44139f4814d64a44910f48166e973
+    name: tsec
+    value: eJxtVEeK7FYAvMpntmJGOcH8AaVupZbUCi2pN+Yp5xx79fe+pU/iMdjGC2+LKiio8OnOafxDSX6+JRSZZESEvpNoDN4JLEbfmYym3pEIJ5k0ARGTYm8/Huk0l3338w39DXn7+pS6eDqH5RvhmryfyqVov0TJSZMUFngBtjTBIS2QJGWXf8L/R/4UyqFIJxEs4KtZY6SzJsBOWHghSJGJod6Rx5JjZSdjd98RwRhLLMfUdM1MZODP2k03qmxvDlrqzwVmX3ZF8C2ssMP2mtvQHThIEeQqIjo+k3WVgQI75w8S2CwB+9c7dbimTtEYn4cUsPOMLGFy3zeYUJODkNwruBDj6AteblcGMwdgTHAfbGumDRvpqvl1PC1tjDfTWBvlZnE34yYnm+gNLEkkSkor14KWL8Td0FaJeu5tqNWn6rSWpKdIrroejuSmdapXe+MAJz0LbsfPgvBJPcvcSKpPZji5ZjF90cj52bfVJ80R1LoMuGqdUDWmKAoWvhyW1LQ85cHItWFm0KUZSsJRPaOLx6zFIYZLOChTiskeIpidaAibATxhAvUEV6PgvOhVsSrk5T0JEwl+tOjeWarmnPCi0xey9y/STdsobUXwTMNACTnFA8Elu6PzA4HaoDSM7QU6WrEq43rpfNyWQWthZXGjCJMdkd5pJP1+rvyLltqsSYfwAlRKaIOgra4qFp4grInBwcK7cK11Xu7Bd6CHlO5L/CyedzZWRrU5zNU7zmPMudc5PSvzQJ2sYydclbnaOHRiM9OngObpqsE7ngRVesf77w71ztDrcqUd8qygokjhKwxNFedbJEFZxW7rg8lyhUeue52NUb3rZKV2cxCdooneb+h5F+HShu5moIc+zYpefw/knkFq99znm3+cjJXwJAKOi6CKaE2kw4sT7jMrASoKUUwlV1OWWqqslMa4sC7OP9CzZhdLbtuZr0fvhXBHmawvObcXlXxcH1TG5abE20dgor1nes8IvyUBM+WwQ+6mELf1RGKPzHOxxkXLrmm8a7pWasLYYVgJXKhdB60wqf4iPuPDFnKIVti5DvxOdCgvb7wMkUj5luVH3nePsw2FizPQS/S6H2rflffHPg5cJaftELoEIgT9glKEcmEf8Ar8rZQhcjfm08Lo3E8yXau2Z3F9nrAZjXqCtulzO5xJV1T626CLkSUnW2YsJIQr26YgZE05fML/Gfvfw9fS746XYP5q5ijalo8k/Zhm8LF8v9Ifv37/R/Ev6xP+66++/gSxiJOa
+  - id: pair_7616c778b9184692bec4cfe12976757c
+    name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1559921957480
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

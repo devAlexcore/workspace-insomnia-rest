@@ -1,0 +1,185 @@
+_id: req_161e844c9e5e45c58b2859fda2c0fd81
+type: Request
+parentId: fld_4ad90896062e47c9adc83cd31ef7e539
+modified: 1559921992099
+created: 1555087890233
+url: http://150.250.140.41:7700/customers/V00/customers
+name: CreateCustomer
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    "firstName": "Andres",
+    "lastName": "Gutierrez",
+    "surnames": "Montenegro",
+    "gender": {
+    "id": "M"
+    },
+    "bank": {
+    "id": "0012",
+    "branch": {
+      "id": "1111"
+    }
+    },
+    "birthData": {
+    "country": {
+      "id": "MDA"
+    },
+    "state": {
+      "id": "11"
+    },
+    "birthDate": "1989-09-03",
+    "city": "001"
+    },
+    "nationalities": [
+    {
+    "id": "COL"
+    }],
+    "identityDocuments": [
+    {
+      "documentType": {
+        "id": "1"
+      },
+      "country": {
+        "id": "COL"
+      },
+      "expirationDate": "2008-02-29",
+      "documentNumber": "1254875870"
+    }
+    ],
+    "contactDetails": [
+    {
+      "contact": "3101881055",
+      "contactType": {
+        "id": "MOBILE_NUMBER"
+      }
+    },
+    {
+      "contact": "andres.otro@gmail.com",
+      "contactType": {
+        "id": "EMAIL"
+      }
+    },
+    {
+      "contact": "2254878",
+      "contactType": {
+        "id": "OFFICE_NUMBER"
+      }
+    }
+    ],
+    "economicData": {
+
+    "economicActivity": {
+      "id": "00000000010"
+    },
+    "occupationType": {
+      "id": "306"
+    },
+    "incomes": [
+      {
+        "incomesType": {
+          "id": "IM"
+        },
+        "incomesValue": {
+          "currency": "COP",
+          "amount": "30000"
+        }
+      },
+      {
+        "incomesType": {
+          "id": "IV"
+        },
+        "incomesValue": {
+          "currency": "COP",
+          "amount": "0"
+        }
+      },
+      {
+        "incomesType": {
+          "id": "OI"
+        },
+        "incomesValue": {
+          "currency": "COP",
+          "amount": "0"
+        }
+      },
+      {
+        "incomesType": {
+          "id": "DN"
+        },
+        "incomesValue": {
+          "currency": "COP",
+          "amount": "888000"
+        }
+      },
+      {
+        "incomesType": {
+          "id": "GH"
+        },
+        "incomesValue": {
+          "currency": "COP",
+          "amount": "1111000"
+        }
+      },
+      {
+        "incomesType": {
+          "id": "AR"
+        },
+        "incomesValue": {
+          "currency": "COP",
+          "amount": "9999000"
+        }
+      }
+    ],
+    "workPlace": {
+      "name": "BBVA Colombia",
+      "taxpayerIdentification": {
+        "documentType": {
+          "id": "NIT"
+        },
+        "documentNumber": "860003020-9"
+      },
+      "address": {
+        "location": {
+          "addressName": "CLL,188,A,0,N,57,B,0,S,27,Oficina 101 UGI",
+          "country": {
+            "id": "COL"
+          }
+        }
+      }
+    }
+    },
+    "addresses": [
+    {
+      "location": {
+        "addressName": "CLL,188,A,0,N,57,B,0,S,27,Oficina 101 UGI",
+        "city": "001",
+        "state": {
+          "id": "17"
+        },
+        "country": {
+          "id": "COL"
+        }
+      }
+    }
+    ]
+    }
+parameters: []
+headers:
+  - id: pair_0c9eb0d8f24a425c849717266f9d9ee3
+    name: Content-Type
+    value: application/json
+  - id: pair_56ec584270ce4be79fe9a5927eb2390c
+    name: tsec
+    value: eJxt1MeOpGYUBeBXGc0WTZOT1NMSsUhFTsXGIvNDkaGgeHq3JdvywvtzpSsdne/TX8v8h1r8/okUSIHhSPGLRXH8F5Hi+S8WychfJEYVBYMXJIYxP3+E5bKCcfj9E/0D+fn1KYCpKRcx3dKvBqExMbT45rLogOHe577yVjDs0QNgVaIOw1GtAL/NkQa/6U6ISIujOLpjsrB7vjD99TqD0n6cIg0xqGN4STU/Wo2tl632KDN6J/dXkoQIKcwFIYSw7dtP/zBVRRl0sQpd4Ew3Z4Dw9kjM9pBE0O9WeyL+GAikf7BWv+p0UPGuYyuXulaoRoz7xhJcvl5hxRl9tEmOthQyuF3RcvU5kdjlEm0cLO1NqzZCNsbMxecS1iw43hHGVtfpcxdiDKYL5Z011XLvMudUdBQvsKlAeV8gGWYPaUxGIHutK6MZx9jxOi2A5J4yY5ckXG6BCnt0Mo51qtt9ig166gTP8WBeUFzRJmgr1wrnnr23YI4g1wTqsSu4Hso8KZiNx3vkgzgxRKJD93IERW399k0uI4du9wwsgw54444+8Dx1+hFaLgJB5DRaqUKoxGHD9LbwHHsyjFKyz5k+97gp2s4IOWjNYcoNEdY+LPF1neXb02kufWisLSpYQFFpjdfTG82UFwMKIlh2RuOWRy5Yegda01nYtbvjC3c6G+zqLqFVSDw9iTJnKr/fZHZKBweB340fzE1igba8NnK8VVexDDfJMnKCl2/ckgTqRRYzKNMJOdKbN3Cc59XhtejZkgIl4B8AomU5tF4T5beHU+3yDC+G64ruDSLkZb5UYxWg8i7JXaS1mBQ5wHHM+0BcJm2UfZJByxi9jFIAh7R3xnE6sYNIBbIFWlPRkWnDCm8t4Jaiu/c2e5K70KMNrAwiUJ8D9528j53Nivqc7ecj2luerIV+fU59C4hHl3cnoGZROnDVHJTbIW9a/PL2xmoiyGwI1T8zORjcV32gK+DI2yKeIO49zlWBobJstTgsS/XCQ9Nq1dQPpqpQpggNmvZppvf5F4J1SGBdj80rnKTKpKtjZHMaA9oYoAdrzlGfEjSajzFixajDffd193kCoWbbk+OQwlLoRtnynCVabYVg761RZfgjQq+mu8KACjGm3dEOZp76XQ1Z9HuT60Of8uIWzDPrZgr9DNbjBQEpiSP5mCMpk9Ae6u5jBblrmMSzkGdvQRGak86Jlnn7HIkY/IQbC3kSQNiVSehpWN4MrIgYcdxXbvYCp7Vgh02+/1C67x1dZP379yf8H2T+Bkcv39wTpOvXc82y1/ZRlB/5+PzIQbWkH9u3aB/5M83Rf07/jX9KQ768p+1bMO5ZjwvYmv5LlLyyKGGBF2BbFzzSTosCDPUn/H/hT/gvML/+BNSavRg=
+authentication: {}
+metaSortKey: -1555087890233
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

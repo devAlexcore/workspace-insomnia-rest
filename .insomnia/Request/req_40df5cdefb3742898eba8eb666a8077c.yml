@@ -1,0 +1,30 @@
+_id: req_40df5cdefb3742898eba8eb666a8077c
+type: Request
+parentId: fld_6271fb9c7adc467687e04b8406d91caa
+modified: 1599064063614
+created: 1555082320673
+url: http://150.250.140.41:7700/vehicleInsurances/V01/traffic-accident-insurances/quotations?licencePlateNumber=ANA852&insuranceExpirationDate=2018-05-17
+name: Cotizacion SOAT
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_db1643ae1c34482bb9bec8e55d1a63d6
+    name: licencePlateNumber
+    value: ANA852
+  - id: pair_bf50b727723347b78ce4f40eaa6925b5
+    name: insuranceExpirationDate
+    value: 2019-05-03
+headers:
+  - id: pair_793f1f2992514a9d8455c93c294645c1
+    name: tsec
+    value: eJxtlMeuq2YAhF/l6mzRuXQbJN8jUU03xaZ4R+fHdH5MWWWft8yT5ERKoiyyHc2MNIv5Lvc5T3+o2a8PKs8IIk/wTyY+nT+p9Hz+ZNJT/FkkJ5w80XHCnrOPH34+zaDvfn18xz6+LlKXTvsAvxWuKfsJwKr9EiUvz3JU4AXU1gWPtuMsA115Qf/PfBHAUOWTGMP4q1lSrLOnmJ2ISKZokUmR3lNGwLGKV7Br4InxmEosx7zOL2aiw2DWTcOqi7XZzlK/Q5Q93JriW1Rlh/cxt9F94BDzTtcv3nMNraBW/pgi35AkAVVzeLgOCWHi345ob+XRwbX5di0KDrHedTEvCQG184uQ1NKf9McxjuOa84bGcKtuUOHi1M3a3JbAfqWsZUmh6z6JRaCVuIgipR+YSJrujcUPHuQ8j3z1RJVlezmoNDJxrd6DKZlExiua3u3ZW2I8h3uMXhHGNMvOORY0C7M8WWakE2Nr75jxcJuJJRg9dbcHT6UYTZ8U1zFDsA5pNzfsI5wjmYO9c1+OuCmpknOGqgn4+m5oW+2iQG3RjdKYG+gXVhXeMaCkpR+c8f70Z3k+W+vbycnilI39vAxrLFIxVqOJM1Y5c9jmmdVdWTgEFw0JeXYXYj/s0Aibbcr6Woma9ar39Ytehu5ZcB3luh1E3raXm06rv5n6deBwjYSGtRFeyQ6+Hcysn5Nady3OsN/YOSlRxLQaun1oUfIg78amNU94O3ITkKdAlE6PDrYBg0nViq2ZJwmk+Lhulc8owWSC1kyxAA+cyLWKBhe2NgzBeQZoLZOCUy2owmU0otF4fdWq4bty8Mo2hgi59FOKC7iMAETOYiMJJxmt96JyKbiIAfZ8wtVwQKR6lVLDMydCwiixJZmKWhGeqnVSYmh68jhJ9HSnaC+Z64cG7UIkvc22F8bxCb8lR91EECbFqRzq1zVG8FQuLYS8gndAiIDbVZ6yAN7V1ljp/FE6iQKuocFsoQ5mskp8LQBUL9gn7Hssuz5trBxNOzIhi/oN9hR7+CKNldkDMOpKce235yhIHuEWKe+bBmHjlayCV230qr4pbOzfvLxeuDLyXmaBdo6eJTfqut/Fym/M0go8AcsqbR8wjLfDE+xVEEgnCUu5aB7f5zSZIfUyXkGH4KRC44ubHicmFivJGln6phcQb7qI7Br6ppQ7kLDNCSNfd8v7HOn9Bf3P2f8+vp7vXAPi+auZk+QNf2b5z2mOf8JvvPzx2+//JP51XdC/ePX1JxpAmFI=
+authentication: {}
+metaSortKey: -1555082320673
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

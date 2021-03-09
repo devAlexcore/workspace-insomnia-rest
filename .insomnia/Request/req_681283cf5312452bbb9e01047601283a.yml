@@ -1,0 +1,42 @@
+_id: req_681283cf5312452bbb9e01047601283a
+type: Request
+parentId: fld_6271fb9c7adc467687e04b8406d91caa
+modified: 1584114597677
+created: 1557944576310
+url: http://150.250.140.41:7700/sarlaft/V01/sarlaft
+name: Baep
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_4a64052e75ac45f2ad8fdacf9fa84224
+    name: documentType
+    value: CC
+  - id: pair_d7eec887184341dea13eb2e287a0bf68
+    name: documentId
+    value: "000000099109436"
+  - id: pair_5f417ecd6663469a9cfbf3166163e582
+    name: checkDigit
+    value: "0"
+  - id: pair_d0b99a1d19e94a0fbdb4b17f08e00dce
+    name: surname
+    value: ANDRES
+  - id: pair_b3b6879f15ff4749b76eb72aa58304e3
+    name: secondSurname
+    value: EDILSON
+  - id: pair_7a20c5013e8d49f1b90d728aa82135eb
+    name: name
+    value: JACOME
+headers:
+  - id: pair_e617717c41d74c8eb318788641c3226e
+    name: tsec
+    value: eJxtlMmOq2YQhV/lqreoG2zAgOTbEoN/5skYGnsTMc/jz7y6+7xlniQdKYmyyLbqnMVR1XeuD5hEP+T451tIpGnIYPF7fGGwd4KmTu8MyeDvWIB9L87UGaOxtx9eMsKia3++nX7D3j6vtzYa9376nrB11o3FlDefws1J4gTlOR61VN4hrSCOiza7ov8nvvJFnyejEEzBZz1HWGuNATOen4AgBTpCOkcaCpaRnJRZvxwhGKIbw9IVVdEj6X9BVdeMMl3rjbp1+4Qyx70kuAaVmX45YPN89CyiV30snPD2pi19DDw4omonymi5iXRHphqVBb0WF8twXzOh8fwwcKjISR5uAgPZUpVtXjQLa0ONOYE5M5kijbz+pLLVRiSo0lV+K/lPDso0eknq8XLvlWlXHJzbNmOzGeD4rioi0KSGF6gGEcMmhxxyBzY0r8+m1Kl36ONFmpMmolS0qhy+KLyIdgoBHfkun4EgXbPTmTuG/IvcXxbdHgxQHyFozFUKdM033e+LeP2hG5c6pvX8zNkVyQ9PVNQ7tmWLBB2xHMGqL5qGpfxl2oVXGLXSV9PqJJhNntOvNL+gQSHxPMdyjRhQWvyCZp0eL7WYD3xu8LxZDnPsLzcoVAPBxymeQO0h1u7x9BXHQPmsqUcJ0aIgS9OLsWbEXUgrlFFLMcyXZKdpMWrLpiwYQxT9bChBo+gZMC4wVKzIHspQrASqQFvMvugT03j3nXMPkLEbcJELvnVQPIJpERFv80kpNrOsxwc5sxLsvM22C9lceKWm7c08VxNivtnHk3CLJOUTxEN4yvRCxuO1pbRbPgirXYuD5KbuQvMQuUdmVIA5swKqWqVdc7lYt/iGGWAEuuFiU6kuswhjZk/v0rrmE1iHx7AJtAEWd7ZVZld7EPcm1iMo8VwQjOo1ghkr/HDvJnycltMUHvSermm3onOJ642cLb1pc/fcnHHSlM7ff1W6HaHcXI68x8tFbKVa4iUdRbTmpZk1MBrBu0utbKf69OxqnePWLb9vvnvueWpatmjvmiLUFYuV8ts5bx667IPoJKXCa991los2X9LTVc5suaHFqsfBo8ES29JCqbKUF6XuzUN5Ekd2o/VNBr3JfIecbcphWlkelkXuOoJKMOCzoaFsbg2fSc3Cg4ouT0XJDxMdouTFzWpmQGzW9nNabLmEWWy8aF2BIpCgwYBVHu/26BX9D+x/g68mO1sXAfysYRgu00ecfIww+Ji+W+mPX7//4/hXdUX/6qvPPwEEjJfF
+authentication: {}
+metaSortKey: -1555082320688.625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

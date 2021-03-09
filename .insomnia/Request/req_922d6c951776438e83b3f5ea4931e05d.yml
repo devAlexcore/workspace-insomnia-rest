@@ -1,0 +1,33 @@
+_id: req_922d6c951776438e83b3f5ea4931e05d
+type: Request
+parentId: fld_33fdb38b7e86438986a73534ae520347
+modified: 1581005591274
+created: 1570055249774
+url: http://150.250.140.41:7700/damage-insurances/v0/damage-insurances/00130009004000168899
+name: getDamageInsurances
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_66cfc725353f4b06b441416af9f814e5
+    name: pageSize
+    value: "99"
+  - id: pair_b28e7638c5bd4a07897f049d85019cb6
+    name: paginationKey
+    value: "001"
+headers:
+  - id: pair_0740a6568d7a42c2853b1c7cda308f65
+    name: tsec
+    value: eJxtlMeOq2YAhV/larZohvqDkeaORG+mY4o3EeU3xfRisFd3n7fMk2QiJVEW2Z6yOvrOZ7DA/IdW/HwjMYqgCjJ/z8i0eKcASbyfiKJ4zyDOYLeCpmmWePsRwnmph/7nG/4b9vb1KfX5/BzXb4Vry2Gu16r7EiUfFhAVeAF1DMEHTloUdV9+ov8X/hTqsYKzmK7pV7vlWO/MKTsTiUwB8ZQjg69ONceq/o3dI19Mp1xiudOduZ9mEEeLYZ6t5ra3ByMNzxVlX15D8R2qsePjtXRJMHKIyENjeJ6kTGkWq8ESMCbqbBoBRcq3Rulj24kFLtUdZJe4244lTscPV0ccCHPfjE1n6s59qv1gi8kkTTfr1nN398UtPXPyJdqKL7tX4i1kK3/0PYQ+bzhzEZa8Nyb8pK6MyD6pToN8J8IzYwoK4k9WWIThUw4NsE6CLrMHKBPieBmBYFk28FQWs2obOxY6sGpmrrVgnfaCsXQ5nWrtmgvToJu2IlnAsWzdXhI+scNiPtIwMg/ET1vYVj0ZbeyhZDv1YH2ZAVCTzre+m/mRLq72kVzS710cT8n5HS/4rIT2LQLzLKg2bJ2qkP2XQk5TnVV6qbhrgBxJwS44Jj1cfjxaCXvFO4qcy6Q8H6HMr3SQ3XrxAYIhZzuvKpoZbBxHSFv4AEW5Wb2dXl44RAz+eusirTRSWGx0zESkiLX3PjYvQqqRizWPwoimDGI57cV1m72B2kitMRplw2TOwFJdBC91iqIWxRM4lJdqCISThE3qEWQ5hxzr7qPtVNup9vCe/BRLOXFk3uqEMMr0dKEdUNtdtWnz+Sq0BJUnrzTAsYK3fOOMkq9gKDsTRIrC4z2p0/LkmixaxV1KBlKGZtFllkfFthn+iucdbV7ng7vyqiGFLqsmbH1f0BN/PgHW+nbWKRoZq7kKFNMA7dUppOSK576wdbXtpmXycJp+7Mq+a8Jk90ldRfoz11GuWkgj4XhsI8OtRMshMc8ND3qNNiLXAaFutRTResldAegwW48juBbVNBVmfnBuusjKcpdxhF/d4YSQFpiq8r5qW6fYfZ7UMTQ4uvZMMa1WMODE7arlc2WesFZl+IpdCrdFHSI7aLMREnYxwHCuSBpqxoY4Xpj419oVDRFcSh3Cx7HyIuFxS2dIbF+zKlPlWxYcTShMEGEPTSbS2K/uTaKgT5XVX9wd+UT/A/vf4BvwybV1uny1S5Y91o8CfsxL+rF+v9Ifv37/p/Fv6hP966++/gQZaZJC
+  - id: pair_94a777b6542644339ddc6dc278c1e5e5
+    name: x-forwarded-for
+    value: 152.123.10.51
+authentication: {}
+metaSortKey: -1563365739566.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

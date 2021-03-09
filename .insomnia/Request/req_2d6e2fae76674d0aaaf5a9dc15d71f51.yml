@@ -1,0 +1,61 @@
+_id: req_2d6e2fae76674d0aaaf5a9dc15d71f51
+type: Request
+parentId: fld_6271fb9c7adc467687e04b8406d91caa
+modified: 1598054791834
+created: 1556042611795
+url: http://150.250.140.41:7700/catalogs/V01/catalogs/E0133/records
+name: ""
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {  
+    	{
+        "endDate": null
+      },
+      {
+        "originId": "S2"
+      },
+      {
+        "categoryId": null
+      },
+      {
+        "productId": "PRLI"
+      },
+      {
+        "expand": null
+      },
+      {
+        "customerId": null
+      }
+    }
+parameters:
+  - id: pair_d3196fe643a64a9ab0fd68486e70861d
+    name: idctlog
+    value: MENERRORES-SOAT
+  - id: pair_5245dae58ee14cc086b988332f0fc5dc
+    name: catalogId
+    value: E0133
+  - id: pair_2c4a6b6a219a47d7b7bc4ae1cd5e3931
+    name: page
+    value: "1"
+  - id: pair_fb0f925c98f04b48a8167a43b186f5be
+    name: pageSize
+    value: "100"
+headers:
+  - id: pair_7fb696ec0894450890b0b4a77e2de316
+    name: tsec
+    value: eJxt1Meuo1YAgOFXGc3WupdyDgZLd65ENcWm2KZuIno/YDo8fSZSEmWR/f9vv6/XmMY/lOTXTyKLQJKEzAeMz+ADhvT5I6Kp+INkIioGaZhlJP3zh5MOY9mh3/kf+M/vL77si3QQwin8LnCaFByDKw6Dthl23+aRM2w0u35JZoGC0JqNJbi+XRXb6Zp3KYM9s3TNRE7dLKS2LJudmv4m0CeGsG7PIHv7lYq9A+w0benFek6Hgwcn4u1eB1GSTjIOOkK0/MdjS0g7jIS2rVzyWndXfm4Zmb1cI9ZnT4Ex3bfWQjI9FlSz50TgrTdcsOg7f3MVPnMmp9d7kzLJ21nt2dVRicVnD9h6mG4jsdaWrs/T0Vrv5Mpu7s3CcLt+cY17IWubMJpICfVWNBeC3qrw5BURrYUMh7xqSa7H2lngcQONdEygh6gcR4vj+toERL4zhIz1AFAgFvD4aUr2zX4/GEy0BiFfc12i0gYPNDsYSAHqKs/571HXUo4Jdt2x8qp0HcAnnpQr3STuzx0eu6IERj7bcAc5sLa47vrpziLakq6WjMwzhU/DRjAPYtyVczxFNaz7hcLb3Zm1dsDJvfToq3LBCR1c5VOpEpKcNqh34iZ96cJxKYS7MIPNtq0ASkFsTNqsh8e2WbFaFUh6m1cNOHf4ZIph784rIui68s76KhFAMlnfO8eOKknUWpsSX7AFJ8FWI8vZHgTyvoqNnK78Y2QGFUMh2QuN2jL5MnQwSsOy9g2/pLP5VSeGwWzrTlwMqTy5G4SuWLU63q32Dfbh7SK9mBy3zWZrQO8cpqVOvudskmKw0aKrR3cJnjJAMyhTLRHWMtYzXJBo9jZzRllfQ3GbsZxwN7FikqTTlFeoyczFlu3Eon0Qm+3MoqgkZJtLjKYv44fZZsh9VKc7jmUwq8hEi/OxqWxn9D1QbMgT5kzIed28+SZ5AbR+iepOiGBenPe5qu/bObYoUmYJ+HiXXZpFBpXjWT5GhRh2hZbkJ0zlaFu8H2QNUexQ8AqUiZu26HbQwnl4e9fNQU3PyyNY3QVKFQa1hykJ3Z5jhf9U3xmNOl3znoU+zk6QuuiIqVZT+3Vk31Q098m+dbPVHpNde52OfGjHafdyVeMVWGcpybNZoYitXmNIWONjYOnbMGlMVqmHfHJxRCTVWmNorw+zwp4PpUfM/GzSGA8Pb87Y56vpod4JMj55EYT27GSMxSzSUjBWQ7wh75wWl7F7JmAx6WFupOYzb+50CfQONKppsr9+fWH/QeZvcLR0Z5syHL+bMYqW6TNJP+Ou+YzLbAg/p9+ifcZNGBP/rP/mXyKKh72ffgvGNnk3lFPRfgviM01SjOd4zNT4J2WGSVKi/Av7v/gL+wvM7z8BtM6/qw==
+  - id: pair_0292f88db15b4a08b086407bcf403c80
+    name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1555082320679.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

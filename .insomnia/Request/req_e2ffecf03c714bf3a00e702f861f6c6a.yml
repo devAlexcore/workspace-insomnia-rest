@@ -1,0 +1,38 @@
+_id: req_e2ffecf03c714bf3a00e702f861f6c6a
+type: Request
+parentId: fld_6271fb9c7adc467687e04b8406d91caa
+modified: 1603137795044
+created: 1555077996870
+url: https://150.250.140.41:8700/catalogs/V01/catalogs/DEPARTAMEN-SOAT/records
+name: Departamentos SOAT
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_9c6d9b22da33434ba3dada5d3952cc25
+    name: idctlog
+    value: DEPARTAMEN-SOAT
+  - id: pair_4d0bbfa3e9d04c69acd79129c5680eac
+    name: catalogId
+    value: DEPARTAMENT-SOAT
+  - id: pair_eb450b614de64469bbbba5cbc7d9d053
+    name: page
+    value: "1"
+  - id: pair_971b50ca806c493f88e4b5babb14463a
+    name: pageSize
+    value: "100"
+headers:
+  - name: tsec
+    value: >
+      eJxtlMmOq2YUhF/lqreoL7MBqW9L8DNjbGZjdsyjmX4MmFX2ecs8SRwpibLI9ugrqVQ6VV8ezNMfWvbrgyZOFFYw5OcpJYhPCsu5Ty5nT59FgrFcjLF0geEfP4J8hvXQ//p4yz6+v6Q+nV/j8r7wXTnM9VI9vkXJzbMcBQJALQO4tBVnWd2XX+j/wV+gHqt8FuMl/u6eKdZbc8zNxF2maJFNkcFVp5rnVLfgtpsrxlMqcTzbMi070+ENGub50hRbtzPS8FpQ7nAaSnigGjeuB3zcvZFHzFeDZ0NwKk9hURs+excWBrDjg1eSreINsVNuekGk7nZEFTMsunh+OpEI6UMocFyXrNvuZgxZiGocX7QpMVrfrfm16kjCEeowm6PROblXUg4xRsYWXzEBZ6vtYaj7lZ57RC1WW2eyyd5QOscjA8eXq7cZ7TNgT+v+eE01BDdvCp60ChZkOvNXhRPE0R8RYR14ni0qjjZbqsRQhem64Njqii/cV6JooeYDCeosRpuy9iRX1CjZYoWKN/ZEfzIxF4CX2+L2G6kjhw/t2FRYdxsp09ETdcDgQx0qOEGXLGknI31LW/QIrnhZ5kGVCrIdkpT2WC6lpIFsCrMM7Jk8Qk8RWle9EzgjWzerHMp8rHBbH/QRJQeBvg9xayf8PKk5D/hJbfOrZu1LHB4e+uyC26MBzeFG1nao9CC8phieyOpJsVyqtOUjpaxUMHri4pGuXBEQEZB+JjBzuyIeYx1UDsHZrc4y1am42FUGTCf1WohWQs49yxqE5DRR4uvaXmJXWhl3jBlRNkwiMd4Ftn7GHeqYIRw3MyfREASzdKE5umHsiyQEsz5sKY/aHY2j/YwUzTxmTaGSAV3ofNNHyiYc8e5DqNY6u8tKcq8nxtof7zBswrNPmlQHonOOd9x4RfrQ+YWR1CxgLoVEJhkHme3GD2CqwnOfIPa7dq23YyiY1ttJvXQo7enY2TFU8Gjp/v5Mo2EL3Kbkn0OkZ/7KhEwnbzuWGaSYBuPy9sJO6aBdIrP0BfSYyIC/AGQ89lV7SGdmsovGxuSAzzXa89Epkg9kHIUkEkwVQJeojoAoug4T+MyRWfUZVmieec477Ot9sZAz0AnmJhIbzdwdc4amNq8dYQpJd5N9knR4sXCvcV+3WgXRQXfRErEcB3MZPRIqwDT3jJIkQnk/Y0A2T5YyQutWfKH/KfvfxTfyF9/VMfzuYJKsy88s/znD+Ofynpc/fvv9H8W/1Bf61159/wnWM5Dq
+    description: ""
+    id: pair_e79252f8d2e04b68b65db6e265c6fc58
+authentication: {}
+metaSortKey: -1555082227366
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

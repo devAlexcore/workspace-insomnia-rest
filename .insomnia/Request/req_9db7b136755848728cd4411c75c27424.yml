@@ -1,0 +1,251 @@
+_id: req_9db7b136755848728cd4411c75c27424
+type: Request
+parentId: fld_6271fb9c7adc467687e04b8406d91caa
+modified: 1599062444726
+created: 1559763328643
+url: http://150.250.140.41:7700/vehicle-insurances/v0/traffic-accident-insurances/
+name: cotiza nuevo (Copy)
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-2
+      {
+        "trafficAccidentInsurance": {
+          "contractor": {
+            "identityDocument": null
+          },
+          "endDate": 1591419600000,
+          "holder": {
+            "addresses": [
+              {
+                "addressType": {
+                  "id": "HOME"
+                },
+                "location": {
+                  "additionalInformation": "",
+                  "addressComponents": [
+                    {
+                      "code": "11",
+                      "componentTypes": [
+                        "ADMINISTRATIVE_AREA_LEVEL_1"
+                      ],
+                      "name": "11"
+                    },
+                    {
+                      "code": "11001",
+                      "componentTypes": [
+                        "ADMINISTRATIVE_AREA_LEVEL_3"
+                      ],
+                      "name": "11001"
+                    }
+                  ],
+                  "formattedAddress": "",
+                  "locationTypes": [
+                    "ADMINISTRATIVE_AREA_LEVEL_1",
+                    "ADMINISTRATIVE_AREA_LEVEL_3"
+                  ]
+                }
+              }
+            ],
+            "contactDetails": [
+              {
+                "contact": {
+                  "contactDetailType": "EMAIL",
+                  "email": {
+                    "address": "capznade@gmail.com",
+                    "contactDetailType": null,
+                    "receivesNotifications": null
+                  },
+                  "landline": null,
+                  "mobile": null,
+                  "socialMedia": null
+                }
+              }
+            ],
+            "deliveryServiceType": {
+              "id": "DIGITAL"
+            },
+            "firstName": "GLADYS",
+            "fullName": null,
+            "gender": {
+              "id": "M",
+              "name": null
+            },
+            "identityDocuments": null,
+            "lastName": ".",
+            "middleName": "GALEANO",
+            "secondLastName": null
+          },
+          "messages": null,
+          "payingAmount": {
+            "amount": 797200,
+            "currency": "COP"
+          },
+          "paymentMethod": {
+            "frecuency": {
+              "description": "ANNUALLY",
+              "id": "ANNUALLY"
+            },
+            "id": "ACCOUNT",
+            "installmentNumber": 0,
+            "product": {
+              "number": "001300090200050568",
+              "numberType": {
+                "id": "CCC"
+              }
+            }
+          },
+          "quotationRelatedNumber": "222",
+          "rates": [
+            {
+              "rateType": {
+                "id": "CONTRIBUTION"
+              },
+              "unit": {
+                "amount": 265100,
+                "currency": "COP",
+                "percentage": null,
+                "unitType": "AMOUNT"
+              }
+            },
+            {
+              "rateType": {
+                "id": "GROSS_FARE"
+              },
+              "unit": {
+                "amount": 530200,
+                "currency": "COP",
+                "percentage": null,
+                "unitType": "AMOUNT"
+              }
+            },
+            {
+              "rateType": {
+                "id": "NET_FARE"
+              },
+              "unit": {
+                "amount": 795300,
+                "currency": "COP",
+                "percentage": null,
+                "unitType": "AMOUNT"
+              }
+            },
+            {
+              "rateType": {
+                "id": "RUNT_FARE"
+              },
+              "unit": {
+                "amount": 1900,
+                "currency": "COP",
+                "percentage": null,
+                "unitType": "AMOUNT"
+              }
+            },
+            {
+              "rateType": {
+                "id": "DISCOUNT"
+              },
+              "unit": {
+                "amount": 0,
+                "currency": "COP",
+                "percentage": null,
+                "unitType": "AMOUNT"
+              }
+            },
+            {
+              "rateType": {
+                "id": "TOTAL_FARE"
+              },
+              "unit": {
+                "amount": 797200,
+                "currency": "COP",
+                "percentage": null,
+                "unitType": "AMOUNT"
+              }
+            }
+          ],
+          "startDate": 1559883600000,
+          "tariffCode": "1",
+          "validityDays": 365,
+          "vehicle": {
+            "chassisNumber": "B220009049",
+            "cylinderCapacity": 2200,
+            "engineNumber": "F2798487",
+            "licencePlateNumber": "EVX995",
+            "loadCapacity": 1,
+            "model": {
+              "brand": {
+                "id": "6",
+                "name": "MAZDA"
+              },
+              "id": "B 2200",
+              "name": null,
+              "year": 1997
+            },
+            "passengersCapacity": 2,
+            "powerSupply": {
+              "id": "1",
+              "name": null
+            },
+            "serialNumber": "B220009049",
+            "vehicleServiceType": {
+              "id": "1"
+            },
+            "vehicleType": {
+              "id": "CAMIONETA"
+            },
+            "vehicleUsage": {
+              "additionalInformation": [
+                {
+                  "id": "DESTINATION_CODE",
+                  "value": "0"
+                },
+                {
+                  "id": "SISEDESTINATION_CODE",
+                  "value": "1"
+                },
+                {
+                  "id": "SISEBRAND_CODE",
+                  "value": "MD"
+                },
+                {
+                  "id": "SISELINE_CODE",
+                  "value": "999"
+                },
+                {
+                  "id": "TRANSITAUTH_CODE",
+                  "value": "6"
+                }
+              ],
+              "serviceType": {
+                "id": "2",
+                "name": null
+              }
+            }
+          }
+        }
+      }
+parameters:
+  - id: pair_a9b67eac7dc7461b9d950e2ea810b347
+    name: licencePlateNumber
+    value: QZY86C
+  - id: pair_054d676d70ad45589f39dd4f94fd24f7
+    name: insuranceExpirationDate
+    value: 2019-06-14
+headers:
+  - id: pair_b9683031d1f949e89baaf1f286f96162
+    name: tsec
+    value: eJxtlMeuq2YAhF/l6mytc+lN8j0S1WAwxWAD3v1U09tPXWWft8yT5ERKoiyyHc2sZuY7e1Ma/9CSXx9MRFNJGsWfAKXZTxKLiE/AJewnzWEpzcR0RlHkx49nOk5F1/76+I59fJ3lNh73Hn4rfJ13YwHfzZcku2mSIqIgIrYuupQNkqRo8zPyf+azWPTvdJQABF/1HKOtPQJuxEOFpCQ2PnWuOhQ8p7oZt/quBIZY5ni2Yip2pAJ/0m+GWWZrvTFyt0OEO+4lKTSIxvXLMTWh1/MnzUfeL9xaiJwUwy7uY89sHg7JK2JwdCnzFJUjo20zvOy0MReN0N4ourw+pDi/YXqco9Cbie21cUwZ6LNU112cjM2C3CT8cZcvkW9T7VvMShg919lb6W2nB6nkUSrJAywItRnBlbRWgI7Gb3xZ388LMl+GbvGDJd6yPW8Py0LB0mz6Ms8MtRyHiUmwXAmC7n3cf/j7oWJDzywjycQGTawY9mD31eO07e7u0XHay63wYZJ0MnXK/fbAmj3U6MMvSwwxLtamtm2TeZkVydrC8+tjb+/KbkNn0ACA6QidFjXtYxdvswHVgDL3h5N0pEMXS3INsIFr2GcJrCl7AEHzEg/Hr0RY+oeAxQ7dUiUwLZ7gT2GTw0wTlCrH3lygiLdbIZn3vkOjNn8LPHZF7XRHpQS4kx4wQjyKT6vIsIZraSFiqmbq/C5J8MHnHEtEdRfOpXWkSTR5ncczYkA6bu7VSO+9zJenAG8ux4b09FwPntxJf4lqqIHkRq7YThorBq7jizHNJlUF0lzmqtIQI+evqZEWNt6D9yJRGtRXF7hDZEmGPcQKX3g5G7GIJ8ntRYEMxrSqLAOrfuMkT+OvEJy2zB2W1Y61q97FlzleD4ScHKTLL5l3RdjBCQy2RGqTH1oZvR6iv6ORIBiXUMwL+3SE93DbXjiCM9W9GoLvVn3cfdMFfGSvzJ1PPfJIxOLN+/ht702lO1WTN4zl5W5LccPIRZRO9UJV4rgT7jKHOre7UAkNBa5Q0SCAwmVhdZ2+0xWqDo/0ew7GTV2xgQ9UpHRVpaQRomHzwBEgh2I8yCmZNu7Q60+LtAo7imk1tSc77y9lhjpyOPOcEYSRRRT7YrxyJOLT1pnqEc0ZjCqELuzN2FX8Cs+1FIleQ6XWAvUwfOJ2BVvQVe6oc0+r01NfeJnrvRCxM/Kfs/99fD3d+boA01c9RdECfybpz3ECP+E3Xv747fd/Ev+6zshfvPr6ExZAlzA=
+  - id: pair_e8e659b381db4de7b4678c12255fdd8c
+    name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1555082320798
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

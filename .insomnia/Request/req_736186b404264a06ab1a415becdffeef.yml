@@ -1,0 +1,126 @@
+_id: req_736186b404264a06ab1a415becdffeef
+type: Request
+parentId: fld_6271fb9c7adc467687e04b8406d91caa
+modified: 1591981034839
+created: 1558380415692
+url: http://150.250.140.41:7700/vehicle-insurances/v0/traffic-accident-insurances
+name: Compra Soat
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "nro_solicitud": 0,
+      "sn_cotizacion": true,
+      "cod_suc": 14,
+      "cod_usuario_solicitud": "SBBVABOGO",
+      "cod_pto_vta": 99005,
+      "cod_agente": 80001256,
+      "cod_tipo_agente": 4,
+      "cod_grupo_endo": 1,
+      "nro_formulario_reem": 0,
+      "cod_motivo": 1,
+      "poliza_soat": {
+        "imp_gtos_emi": 0,
+        "imp_iva": 0,
+        "pje_descuento": 0,
+        "informacion_pago": {
+          "cod_valor": "0",
+          "imp_pagado": 421750,
+          "fec_mov": "2019-06-26T14:13:41",
+          "nro_cheque": "",
+          "cod_banco_emi": 13,
+          "cod_conducto": 0,
+          "nro_tarjeta": "0",
+          "nro_aut_tarjeta": "0",
+          "nro_consec_pago": 0
+        },
+        "informacion_tomador": {
+          "txt_telefono": "3115694463",
+          "txt_correo": "ANDRESFELIPE.NUNEZ@BBVA.com",
+          "txt_apellido1": "JACOME",
+          "txt_apellido2": "LOPEZ",
+          "txt_nombre": "Edilson Andres",
+          "cod_tipo_persona": "F",
+          "cod_tipo_doc": 1,
+          "nro_doc": "99109436",
+          "cod_tipo_dir": 1,
+          "txt_direccion": "Calle 678",
+          "cod_dpto": 11,
+          "cod_municipio": 11001,
+          "txt_sexo": "M",
+          "cod_tipo_telef": 1,
+          "nro_digito_chequeo": "0",
+          "cod_pais": 1
+        },
+        "informacion_envio": null,
+        "informacion_vehiculo": {
+          "digito_chequeo": 0,
+          "cod_clase_soat": 5,
+          "aaaa_modelo": 2009,
+          "cnt_cc": 1248,
+          "cnt_ocupantes": 5,
+          "cnt_toneladas": 0,
+          "tipo_combustible": 1,
+          "cod_destino": 1,
+          "cod_tipo_veh_min_trans": "1",
+          "txt_patente": "RAM200",
+          "txt_motor": "G4LA8M034080",
+          "txt_chasis": "MALAM51CP9M184323",
+          "cod_pais_matricula": 1,
+          "nro_asociado": 512,
+          "txt_marca": "HYUNDAI",
+          "txt_modelo": "i 10 GL",
+          "txt_vin": "MALAM51CP9M184323",
+          "cod_marca_min_trans": "HY",
+          "cod_modelo_min_trans": "999",
+          "nro_tarifa": 512,
+          "esElectrico": false
+        },
+        "tipo_poliza": 1,
+        "meses_vigencia": 0,
+        "vigencia_en_aaaa_biciesto": false,
+        "cod_grupo_endo": 1,
+        "fec_emision": "2019-06-26T00:00:00",
+        "fec_vig_desde": "2019-08-09T00:00:00",
+        "fec_vig_hasta": "2020-08-08T00:00:00",
+        "imp_prima_total": 419850,
+        "imp_tasa_runt": 1900,
+        "dias_vigencia": 365
+      },
+      "cod_envio_asociado": 0,
+      "poliza_ap": {
+        "informacionTomador": null,
+        "tipoPoliza": 0,
+        "mesesVigencia": 0,
+        "vigenciaEnAaaaBiciesto": false,
+        "tomador": null,
+        "valorAsegurado": null,
+        "placaAsistencia": null,
+        "vigencia": null,
+        "codGrupoEndo": 0,
+        "fecEmision": null,
+        "fecVigDesde": null,
+        "fecVigHasta": null,
+        "impPrimaTotal": null,
+        "diasVigencia": 0
+      }
+    }
+parameters: []
+headers:
+  - id: pair_be499333450340d883bb870b4a4d73fa
+    name: tsec
+    value: eJxtlLeO61YARH/lYVtil2IUCexbgGISxSgGMTQGcw66vGKqXu+/9Jd4DdiGC7eDmWKAOfPpznn6Q8l+vp1YJsfogn7HC5Z8J8mCemcKBn/HzznFsgWWUxj29uORg7keh59v2G+nt69PcUjBPsFvhevKEdSw6r8E0cmzHOUvPGqpvENZcZbVQ/mJ/p/5k6+nKgdCDOOv7pWeBgvELMBDiaQEJkVG5/qsOfbqFOzqO0L8TEWWY9pzywAq8GdV14ymWLvtLI47RNnDbshLjyrstBxzH7oTh/BrKd5R14Z6pktkL0X+pK4IJdrWniD42D+NTSbE807bLNT3WY5w/NKxdYtCI2e1GGLhPQpyJJZyK32FJeJi5KB4xzFHjCZ0UzvzgaaVtuE+VdxrzIyfevdp4vdrDbgxBPdzoR3PDCPiaVN1Z9o2HCmWxqkXVk6C7RiAgJ0CU50iKzHUm9WO7Sg3NC1VYebISLbU6blSwh6uwZVqHsWqQ+Rm1n40bQ0ytVYtzOpEtAd1BG25z5iwyKGLpkTtdcHgCj1iaMqrNapgsLBZBwzpl/5xL9Bw1KzIVJZS4Daj50OxSBuX1Zs2MTWa4qzz9SaRSZiEwUQtSGsC6q6cLn4jybvYlwu/cLcB0rDxJot8uPsJVfJle1nuVpcXOBScv65VPdz0BBYm3TEHYh7c67QREmfsjkpetEowpqhmiptEHNWYiY5ZbIukB3w01S1TMcye21bJNUtxG9ooFLXdsxPUy2rGX8V07+ow9GPEhYfCgw1bTt5tfEInyMjKSuBDpVM88fK0BG7Qru2DVOLe363rWhuz/FAyMHlC1VA4pqPszuc4ekr7PJ7tIPb9SjkRTRhcpvAou4DT+CkviPXgGsrFTT3eh0a+iddQi0gSXt1pl8zV2qIdLCSiQjnrpbu/KvRje9JL+ZhqbkBIbfGMSqbBBlNj9Te1qnnhIFb7KTZlMyGjtO/2s3tovPwK3LPHeChiXqjMAEw6rtN4fragM0QFSulBxa6dV0MVYP3d0cGzJ/h9g8tdPOzlu56ZSjmqPNYajEQBwv115RvTwcbqpvgGL+rhYAraMJyjywEgHkbf4+8q5Ua2FlDXMyDwB1wHXDyPUR4TBO1EByeb2iVd2f1SJhc9fxHIMZD6RgicTfC1Bgud2qXI6OmO94Z6eHKqHUjJdauFmw2cElW3lsoVunvxn+h/YP8bfDXfua6O569uTpIFfmT5B5jjD/j9Sn/8+v2fxL+uT/Svv/r6EycgnEY=
+  - id: pair_bffdd7f8fd4344dbbfa5536c3840567d
+    name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1555082320674.5625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

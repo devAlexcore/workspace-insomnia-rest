@@ -1,0 +1,35 @@
+_id: req_daa680ff8fa34b34a24e32a3052275b1
+type: Request
+parentId: fld_03b1105fae9b40058f6317be3c857af7
+modified: 1597418009309
+created: 1596217131390
+url: |-
+  
+  https://150.250.140.41:8700/loan/V01/getLoanResume/00130158009630000323
+name: getLoanResume
+description: ""
+method: GET
+body: {}
+parameters:
+  - description: ""
+    id: pair_20335aee864b440aa982a3d77afe4004
+    name: idLoan
+    value: "00130158009630000323"
+  - description: ""
+    id: pair_41dfcc39afdf424283c6d596cb6b8a7a
+    name: indConsulta
+    value: C
+headers:
+  - description: ""
+    id: pair_cc452991bc854472be1c98344d378ebe
+    name: tsec
+    value: eJxtlMeOq2YAhV/larZo7k81IPmORAfTi41hRzXN9L7KPm+ZJ8lESqIssj36zuqUqzdlyQ8l/fWRUFhO0Gn2SecY/InHMf0ZX3Dsk6ZTmEwjBM1o4uPHIxunsmt/fXzbPr6uQpuMRz9/K0zz6sZyLt5fvOBmaQY4lgOWyrmEFaVp2b6u4P/gK1f2RTby0Rx9NUsCt9YY0SMaiDjBUwnUufJQMrTs5vTmu3w0JALNUDVZUyPx9CdV14wq35qdFLpjBvTpVDj7Bgrdr+f0DryegdhuwxpWH+aSYsStKsv2rbQkbqrHDq1yEhynwPG2ie9z5MJaAMLXwLz8A2Uq7yEaBYqq0h6zyDOO69GmmO3QBYOQksoJYe/pw5Fz0HK5VzPD6MET60JsEFZkZwMRBZjSYYyJ8W2q5npsLOoU472BhvdszZrlJmIl0IUZKjIhDRhVJ0GTyUg07Mw89e1MuE1INt06K3kijHpJBJ3fnxqTOX3KlZwLw/qwksAnL5ZG8qJpOBbES7kSUY+UXn2G5AFZhnRzFEaNJUz/xrZz1QzaQ2vEwBMFMhi59yHTtfd89Jr71rrckpCaqe3+ktsIfyPP/o4TbKEm4fqQpllTSDub0oKRLA6xiBspZPVk4G/Dhgsjf2DxEWrOikzEWcnUJAXWuUtIxgVAzaWtJSrMUv0SYBAltC9YN2WZ8LgntXlQEXvfmU5NDva5yYBtr5ssz+0WbdW23CFQnDtpUMp2DJBL7AJPP2vKvF8a+MlNvO9n+mN46VZnk6b0xqZ48hDHCmyUKMNLhlV6ZsauXNbyg01cpCjkysSZy305eEAoVrYvet2agwWZBejTdHOWVMW6VHlwckLBcZdv4w2pVU+UDGL9ruqFIU4QNDAtMlvPaRbOClJeGL7DGuPIy9PAtjXwH7Q2fnd4QBUIHqWNbKaAe70w43CZp9NE/UOKpPH28pyYv+BUW+rg5qbYxnXoGM4BvTQbFF9sjmyTklME0QhEqo5x6raFxDwAROfvXCIoHIYKtHf3joN5r/eUWdnaHi2OpK0FS06VdJK80CO+U5qLMnVCB6wRElkFzFD5JDDiEQ7v16VUbjRKWdKhk+vucJcbia9+OLfVrkCcI2eCy/F6Nmia7J82xY/N872vJyuwBa3wvShmlbUgOWHr3prWjb20cKSManxsCZVeWvmJoxRMc1UOruA/Y/97+Gp2ME0ZTV/NFMfr/DPNfo5T9HP+vpc/fvv9H8e/1BX89VdffwIOwZB8
+authentication: {}
+metaSortKey: -1558711801331.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

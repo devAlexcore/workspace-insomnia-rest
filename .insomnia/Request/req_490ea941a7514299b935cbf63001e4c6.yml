@@ -1,0 +1,30 @@
+_id: req_490ea941a7514299b935cbf63001e4c6
+type: Request
+parentId: fld_4ad90896062e47c9adc83cd31ef7e539
+modified: 1559921984796
+created: 1555088177241
+url: http://150.250.140.41:7700/economicActivities/V01/activities
+name: Activities-getDivisions
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_522b64d4efb6426d9a9f47a6a3045dab
+    name: divisionId
+    value: ""
+  - id: pair_d08cfa1ca91a4612bc19314b60d0347b
+    name: groupId
+    value: ""
+headers:
+  - id: pair_8da33d05c02c4f19a34f78ca6329b898
+    name: tsec
+    value: ""
+authentication: {}
+metaSortKey: -1555088177241
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

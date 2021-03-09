@@ -1,0 +1,273 @@
+_id: req_53b2f3876c7c48cdaecac3e05070f3f0
+type: Request
+parentId: fld_6271fb9c7adc467687e04b8406d91caa
+modified: 1563382666378
+created: 1563382607150
+url: http://150.250.140.41:7700/vehicle-insurances/v0/traffic-accident-insurances
+name: Compra Soat (Copy)
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-2
+     {
+        "trafficAccidentInsurance": {
+          "contractor": {
+            "identityDocument": [
+              {
+                "documentNumber": "000000099109436",
+                "documentType": {
+                  "id": "1"
+                }
+              }
+            ]
+          },
+          "endDate": 1597899600000,
+          "holder": {
+            "addresses": [
+              {
+                "addressType": {
+                  "id": "OWNER"
+                },
+                "location": {
+                  "additionalInformation": "",
+                  "addressComponents": [
+                    {
+                      "code": "41",
+                      "componentTypes": [
+                        "ADMINISTRATIVE_AREA_LEVEL_1"
+                      ],
+                      "name": "41"
+                    },
+                    {
+                      "code": "41001",
+                      "componentTypes": [
+                        "ADMINISTRATIVE_AREA_LEVEL_3"
+                      ],
+                      "name": "41001"
+                    }
+                  ],
+                  "formattedAddress": "Calle 123",
+                  "locationTypes": [
+                    "ADMINISTRATIVE_AREA_LEVEL_1",
+                    "ADMINISTRATIVE_AREA_LEVEL_3"
+                  ]
+                }
+              }
+            ],
+            "contactDetails": [
+              {
+                "contact": {
+                  "contactDetailType": "MOBILE",
+                  "email": null,
+                  "landline": null,
+                  "mobile": {
+                    "contactDetailType": null,
+                    "number": "3053112466",
+                    "phoneCompany": null,
+                    "receivesNotifications": null
+                  },
+                  "socialMedia": null
+                }
+              },
+              {
+                "contact": {
+                  "contactDetailType": "EMAIL",
+                  "email": {
+                    "address": "ANDRESFELIPE.NUNEZ@BBVA.COM",
+                    "contactDetailType": null,
+                    "receivesNotifications": null
+                  },
+                  "landline": null,
+                  "mobile": null,
+                  "socialMedia": null
+                }
+              }
+            ],
+            "deliveryServiceType": {
+              "id": "DIGITAL"
+            },
+            "firstName": "Andres Felipe",
+            "fullName": null,
+            "gender": {
+              "id": "M",
+              "name": null
+            },
+            "identityDocuments": [
+              {
+                "documentNumber": "99109436",
+                "documentType": {
+                  "id": "1"
+                }
+              }
+            ],
+            "lastName": "CHAPARRO",
+            "middleName": "NUNEZ",
+            "secondLastName": null
+          },
+          "messages": null,
+          "payingAmount": {
+            "amount": 387250,
+            "currency": "COP"
+          },
+          "paymentMethod": {
+            "frecuency": {
+              "description": "ANNUALLY",
+              "id": "ANNUALLY"
+            },
+            "id": "ACCOUNT",
+            "installmentNumber": 0,
+            "product": {
+              "number": "001305810200903325",
+              "numberType": {
+                "id": "CCC"
+              }
+            }
+          },
+          "quotationRelatedNumber": "521",
+          "rates": [
+            {
+              "rateType": {
+                "id": "GROSS_FARE"
+              },
+              "unit": {
+                "amount": 256900,
+                "currency": "COP",
+                "percentage": null,
+                "unitType": "AMOUNT"
+              }
+            },
+            {
+              "rateType": {
+                "id": "CONTRIBUTION"
+              },
+              "unit": {
+                "amount": 128450,
+                "currency": "COP",
+                "percentage": null,
+                "unitType": "AMOUNT"
+              }
+            },
+            {
+              "rateType": {
+                "id": "NET_FARE"
+              },
+              "unit": {
+                "amount": 385350,
+                "currency": "COP",
+                "percentage": null,
+                "unitType": "AMOUNT"
+              }
+            },
+            {
+              "rateType": {
+                "id": "RUNT_FARE"
+              },
+              "unit": {
+                "amount": 1900,
+                "currency": "COP",
+                "percentage": null,
+                "unitType": "AMOUNT"
+              }
+            },
+            {
+              "rateType": {
+                "id": "DISCOUNT"
+              },
+              "unit": {
+                "amount": 0,
+                "currency": "COP",
+                "percentage": null,
+                "unitType": "AMOUNT"
+              }
+            },
+            {
+              "rateType": {
+                "id": "TOTAL_FARE"
+              },
+              "unit": {
+                "amount": 387250,
+                "currency": "COP",
+                "percentage": null,
+                "unitType": "AMOUNT"
+              }
+            }
+          ],
+          "startDate": 1566363600000,
+          "tariffCode": "1",
+          "validityDays": 365,
+          "vehicle": {
+            "chassisNumber": "9GATJ5169DB016650",
+            "cylinderCapacity": 1598,
+            "engineNumber": "F16D31829912",
+            "licencePlateNumber": "MKM649",
+            "loadCapacity": 0,
+            "model": {
+              "brand": {
+                "id": "1",
+                "name": "CHEVROLET"
+              },
+              "id": "AVEO",
+              "name": null,
+              "year": 2013
+            },
+            "passengersCapacity": 5,
+            "powerSupply": {
+              "id": "1",
+              "name": null
+            },
+            "serialNumber": "9GATJ5169DB016650",
+            "vehicleServiceType": {
+              "id": "1"
+            },
+            "vehicleType": {
+              "id": "AUTOMOVIL"
+            },
+            "vehicleUsage": {
+              "additionalInformation": [
+                {
+                  "id": "DESTINATION_CODE",
+                  "value": "1"
+                },
+                {
+                  "id": "SISEDESTINATION_CODE",
+                  "value": "1"
+                },
+                {
+                  "id": "SISEBRAND_CODE",
+                  "value": "CH"
+                },
+                {
+                  "id": "SISELINE_CODE",
+                  "value": "999"
+                },
+                {
+                  "id": "TRANSITAUTH_CODE",
+                  "value": "1"
+                }
+              ],
+              "serviceType": {
+                "id": "5",
+                "name": null
+              }
+            }
+          }
+        }
+      }
+parameters: []
+headers:
+  - id: pair_be499333450340d883bb870b4a4d73fa
+    name: tsec
+    value: eJxtlMmOq1YARH/lqbeoH7MBqbsl5slgzGjYRBe4TAYzGgOrt89f5kvSkZIoi2xLpzYlnfrwZ5j90PPPtzTHKZzJqHdI5Ok7hWfMO6AY8E5gdHYiODrLaO7tRwinue4fn2/4b9jb14f8yKZ9WL4Tvi37qV6q7kuSPZhDVBRE1DFFj3ZAnteP8gP9P/hDrIcKThJYwFf7zLCHMwFuImKFoiU2Q3pPG2ue07yCe0WeBMZM5nj2ztzZib5Fs2md7aZ4tRsj9/uCcofbUEKH6tywHnMX+wOPON05d/Odq8y7akpITdh06hUxcSNlqh/89Ngbip0aNyDqqCVwBwFNIG38Ml3A2YwR9rTlLZd5yHOiSa4wq8rC/fgkNImRWkQJBpe9GvJB0rtOoYE9+BH7PZgRHqbQd7pteGmY3LS6sd0HWCNmzE1JEG7GtbZjfDEziuGMmum2zoljdQpJ17kKvscqDjISjpBIkKKCtqAvsBNa83pduYmNsl5CJMHIzpd7yJi3AcO1lvNKRh/JNJt8O8lrWvS6rSL9mKU7u14zlJe6rDyH4CazVlKC2OJPoNEKCrclYQor9iK+piUT/JlEaw/bdKTDnFLlZGPrIpYRAi+Lh+kWpMVNP8dAjiI8DVNoIlbRz7T4uiqpaHb7VVYSu5STQDhbcGkSmUG4lrVOiHma5FzcV47QzvEQJrTLjA8An5m7+Qs8AzUnHBHahS0x16Q5IM+7JOkRx1PCY2iGHbxkUa6VDSBavzhxClLR6x52fl9JUK9y3+yWXa1VRXyS45RzDMEfZ/QRPxucJmz86cYqgJhzfR2ju7eecQDxAlp30hQXu9xrRtLp+KQZ98ZqRFx4JC5KRpE6PXC+4dyXjXFqe5sR4BGxLxbWdEc9L90xDrQFzgZbdIou3klQsRlLwCjTsUmWXbcXyqzTJMrz452HECVHrDKbvV5Eim0923Rv7BH20a7ri5PfOyooD4MIrL6jQqa0+WnlrxXKJCvEF5Y5EOUyOE8aMRUsq3iDhXB0MtUNIm3SrOzQENfPhQUdVUGgFSFZBltfH49ti0Q+yekQa2XT8A/neW9Kd5ZWP9/Pjg5xzKjwILW41biw2mbRx0HMux/4vcb37jZGbhCaxB7t3c1bbCS90E+KPSoFlz8/0P+I+7fEJtz5tgbzVzun6br8zOHPaQY/l++H+ePX7/80/qU+0L++5+tPUGJ9Sw==
+  - id: pair_bffdd7f8fd4344dbbfa5536c3840567d
+    name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1555082320673.7812
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

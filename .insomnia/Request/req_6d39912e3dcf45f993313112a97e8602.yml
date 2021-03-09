@@ -1,0 +1,30 @@
+_id: req_6d39912e3dcf45f993313112a97e8602
+type: Request
+parentId: fld_33fdb38b7e86438986a73534ae520347
+modified: 1615307113600
+created: 1567179800143
+url: https://dev-arqaso.work.co.nextgen.igrupobbva:8050/insurances-contracts/v0/insurances-contracts
+name: listInsurancesContracts
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_66cfc725353f4b06b441416af9f814e5
+    name: pageSize
+    value: "99"
+  - id: pair_b28e7638c5bd4a07897f049d85019cb6
+    name: paginationKey
+    value: "001"
+headers:
+  - id: pair_0740a6568d7a42c2853b1c7cda308f65
+    name: tsec
+    value: eJxtlMmOo1YARX+lVVur+jHDk9wlYQNmMrOZdg8wBmPmwcAq+/xlviQVKYmyyPbqnOW5R2+8pz+U7NcHSyOa4CD2ySIOflIQok8ugeknnuMwp9gMMjn78cO/D2PZNr8+vrWPr6PYpMPWTd8L/3q0QzkV9ZcguvfsDs6nM7C0s0tbKMvK5nEE/wcfz2VX3AcBTejrNadYYw0IDkQkUbTApYfWlfuSh7Kbw3fgCqhPRchzFVtxAx0Go3bVjWf+fq2s2G4TgLvzpE41UGC37GMdeR1/kCQCo+TAfAXMgJkmOWv0xs+3lG9xadwMpbOe+7VU+m52VxefBs84wdR8UiIjkJhwXrchlwv2nQxmBWx0R5hgZPNEAsdbgErxjnz1cNcS2Z1PLv1NVGhk4K6vzAEHtMQwZArtmZ5Ecs7q2/nluEzmWgWMDEubZ9J8gODKInx5P0DSSVHlmNWUiq1aNDZUSq9U7ZYQXJ5Irv2yuErjHexL/eDI4UF2T4YY67fd5JlaV6zvOdf1kqNKLIryVjIPIUBt5VX18OoRgzOGG1dwe7LPdG2v59q3cD1+NosfyYWmUMGjnuo9FJGFt4gJBNGkboewNC9kRa0zdAhR5WIcNaOW2Zjr+u/h2jGoll/NnC6iaCsSKg4LsvLU1OkeHsKDQ+RFnGPS2VGlakdG6C4QqJ0x86S5DrgnToxcvbuqEvxFdECCJSqZaey2G6wrYgtzmmvuloAkjp9MbyN6fGPZIcJ6jS56eU0LJN4OHWHMARGmfR5j2xNDnWM+SjXU23MdsbewA9lyJ15YaJCvCYxqqDLc4wIiDsyb3d2V86irzVoMHd07NWZpJc34SUziZjV60wMFviqggg4FROQjbrGMNqMrl3mYzGbt0y61Lq18+ADXxnGxYArHO9zxbCrTjFDMoV2qyrBZ1i3NVH8P0RWe0puvk4dSaUEw8wP/VGz6jFuvy0wAgqK8hkpPte5qpyXtyqSrbzGrniZ/rpw3FAZuUonZT5eeW4LZCW002SNeXuw1WzjJhrtgdoxSSBuODbNs+/6lAlLUa6fJpayQiQHPiQEVeR6sy4a1a75b7mTlr84BWft2eefBdZJZSlrHpblsjEMvjFJZ8eJdwJDzDzxvFlxfqwNLp/J3D7bpB4w+x3ZHIoTtelvHqarWUAqpaHfTutfJnQgta2R0NYVljW1DsR/Bf2L/O3ztvvGvEo1frzFJlulndv85jOjn9H0vf/z2+z/Gv9QR/PVXX38CS86UEA==
+authentication: {}
+metaSortKey: -1567179800143
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

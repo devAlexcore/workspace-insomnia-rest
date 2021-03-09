@@ -1,0 +1,110 @@
+_id: req_e79c573399e7435fbf550014b7323d96
+type: Request
+parentId: fld_4ad90896062e47c9adc83cd31ef7e539
+modified: 1559921987669
+created: 1555088045043
+url: http://150.250.140.41:7700/offer/V01
+name: ModifyOffer
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+
+    "id": "60",
+
+    "amount": {
+
+    "amount": "2000000",
+
+    "currency": "COP"
+
+    },
+
+    "relatedContract": {
+
+    "id": ""
+
+    },
+
+    "contract": "",
+
+    "operation": {
+
+    "person": {
+
+    "contactsInformation": [{
+
+    "name" : "icorredore@outlook.com"
+
+    }]
+
+    }
+
+    },
+
+    "product": {
+
+    "conditions": {
+
+    "items": [{
+
+    "name": "",
+
+    "values": [{
+
+    "value": ""
+
+    }]
+
+    },
+
+    {
+
+    "name": "TIPOBIN",
+
+    "values": [{
+
+    "value": "RT"
+
+    }]
+
+    },
+
+    {
+
+    "name": "FRANQUICIA",
+
+    "values": [{
+
+    "value": "450407"
+
+    }]
+
+    }
+
+    ]
+
+    }
+
+    }
+
+    }
+parameters: []
+headers:
+  - id: pair_fd4e5edf8dc3419d8bd1f925b0df94d7
+    name: Content-Type
+    value: application/json
+  - id: pair_1e458afae0e74949b2720a7f4d64939e
+    name: tsec
+    value: eJxt1EmLrAYUBeC/8nhb6XaeoLvBWUsttZxKN8F5ni2nX58KJCGL7M/lwoHzfTlLlvxS0u/fEUTgEJZCH0QcRR8YRecfEUrDHxgN0xBJwxBEQ79/edm8VEP//Rv+A/r988VVY5nNfLRGPyVEIrxnsOVlkC7FnMdrYQ23f/lBheSh0vd7vlSoNPk38CQbzscNhmDIhoq9pt0QddsONzODgycBCrY0O8ynoL7tWUD1loQSBECK3LoUuzLppNiNw3ZlMvysEYfhOnmt1R1saA5/NEN+VoPUzazeLvVsHbeoMWFaSVRNrVHx4RmTrnr6tj4EeGEjiYkFk4PBwTZf9y0WDY6GI9A4SbXctD3u/Jj2aBsxzpUA45i4lXOQ47VCgXXnVFKtO4vlWJmFXNHmEf10Rkm3KY9b3kRMdD5f9Vw0Vl7oTizPrswDeYJSQv3q9Y0f302kmo1rh/g4YZRWSbR2ZI61N6hE7h4fWZa2ioYmw87e6Joi3mf9nDq/UiVPETAX9RiGurR+dhz+0KnRD4DBWhZ4CDSToC7FlI95eTyAd7eFdZddk2VT7iQy8Y4BEjMlvWiqKs0jKXjfSh+HVD5JZh0rRbMPG121Vh0moJxOF2R7AT1m2kpO5Yu6tnQHrM1hcfCp3LWSTJ7tFtYhwmU5AKL59ryuwhGmfo0caxY1sxrAa0yLlzdq2S49PH61AWO90XIDYxQzbXkhX5MGp04mjz6nQbJqLdgy3kI8ZeGsHZvHY8En1bBDc6c4YkNhvwwbbCsQSx2qJfXXbW+WfOuWPbz54GGpHhylLu0f4/OCGtsMki1M1FB8BAUUNxsbgQo1uYaK5fo1CLPan6+xWCC8tuacZXN0Kav98DxKAF7YpKKvalglFUV5apOfEeKDT89HcDiveG95cEA62U1i93TEEk71NIu1efWKKxWy8dz5lHs/r12IdQBMI6+aTm74k6SoEt7zwVgh906abXD1aA8ZttbBuR3eslXJMATzk3rzI06m5NZo76ZlFKJ5xCo1HytX5Bnv88TMjcW57npqplJ5RRdCdA64Vqfl3CwdJU96dBBQPkkNmMgyE5A4uAte1ZXesRhd6Q5k2UNP4ZgQXV4k20wJyau5jnrPbOzXmJSUVHJwN5iXpObULK3x+uljbuYvCFCnsok69hge+UQMj5RgSV28EH8/ozMbSXGTuR0nzP1uW9gz8fS22JzdzD27hRpmfOmg0wuBjodZw9dN1wXB9dqHy98xRuE5VDcLUA/eZOAC8/39Bf4Hmb/BUbOTaato+WmXON7WzzT7TIb2M6nyOfpc36J9Jm2UwP+c/hv/EvpkPsf1LRjTFsNcrWX3wwt2lmYgx3KgqXI2bkZpWvXFF/h/4S/wLzB//gTjr8DP
+authentication: {}
+metaSortKey: -1555088045043
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,84 @@
+_id: req_e6b36bb6e71942fdafdd616fa9190b57
+type: Request
+parentId: fld_6ea9b900994943dcb70c643affc7c8fe
+modified: 1597964592254
+created: 1597964260562
+url: https://150.250.140.41:8700/authenticationCustomer/V01
+name: validate
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-2
+      {
+        "dataAuthenticationCustomer": {
+          "addresses": null,
+          "allowsAd": null,
+          "authenticationMethodEnable": null,
+          "authenticationProfileStatus": null,
+          "bank": null,
+          "birthDate": null,
+          "branch": null,
+          "classification": null,
+          "companyInformation": null,
+          "condition": null,
+          "contactsInformation": [],
+          "country": null,
+          "delinquencyRiskData": null,
+          "documents": null,
+          "economicData": null,
+          "employeeData": null,
+          "expirationDate": null,
+          "extendedData": null,
+          "groupRelationshipStatus": null,
+          "hasPassedAway": null,
+          "id": null,
+          "identityDocument": [],
+          "image": null,
+          "indicatorsList": null,
+          "isCustomer": null,
+          "knowYourCustomer": null,
+          "lastName": null,
+          "legalAddress": null,
+          "legalRepresentatives": null,
+          "managementData": null,
+          "membershipDate": null,
+          "method": null,
+          "mifidInformation": null,
+          "mothersLastName": null,
+          "name": null,
+          "nationality": null,
+          "operationType": {
+            "href": null,
+            "id": "T",
+            "name": null
+          },
+          "pin": "eb49e8dc839de73dafd904face41a2b0",
+          "reference": null,
+          "securityData": null,
+          "serialNumber": null,
+          "sources": null,
+          "stablishmentDate": null,
+          "startDate": null,
+          "status": null,
+          "type": null,
+          "users": null
+        }
+      }
+parameters: []
+headers:
+  - id: pair_2114cfddac3840f4b65bb2fb4bfeddf6
+    name: tsec
+    value: eJxtVMmuq1YA+5Wnu0X3MR0mKe9KcEiYkgBhSGDHHGYOEAisuu9f9kt6K7VVF91atmRbsg/ulCU/tPTXB0nkscAK6ScBYuIT8Cn7GfOA/YzImKainCZjjvv44WfjVPbdr49v2cfX4dgl4zbM34jYFP1Yzs/2Sz46WZrhUIK4ZUCHsaI0LbvigP8f+QDL4ZmNcjRHX80rITprjISRCk6AkfkE6x0VlaKgOrmw3h05QslREPmaq/mRedwn43K+VvnavLljv824sN8qILW4JgzLPrWBO4iYYTLT+TWDCsG8IxOXsDnFkHP5zji0J5vOfCJBBGIujmgU2gtNuQw0T2nTYsfaH8WQ6ZEB1xOsI0VqEnEcMsZ3DewdToyeGeG9KQ3kZ+fHewCpvsa2xiXRnuQWdtlzVJ0eiQxBLoGj47Irl3Tq1fM2gGx4bqOVnLdQZ1yD2F9olfuTPjzYbAC1yabq0HfC0k7Y3HhVKy98jeokgfRYl5LO+xcW1jMQiMRX7/j1rgbJ0wnUIoB4A1M2NEISMlLGKu8VD50xIdRLzKx92Qr6Jqh8mX/7lVrlqUOa9i+XIULNUvBaZj619GqpWS08aAqTZNt7uIGyBw9Kx5zvfI7YsOA+hyYg1ifX4Yq/xsNEsyY6ynbaxRbGp/dY8S8P/Gia806ctNqnX8zcouyErt5lF3Ii6AqkaAahBPa70P1lIKasCrubUHMutuWdp7pW2xi8Y23F7Ryxmo4PzU7woPTL90VYhlseSArSgPs8ek733G+g0o0ZAWheH0zRZHVJnXitCsgS9zjqODrOnnSudVNpG1Abtm6kfltdk4OnahAiscI1/QzeBqIeganxGpxCmyp76Wo63CvcU8BGvm1ZiQ/3pe10xQiGxB5jYDSbWpQEOVX08XVD0lwRw8RZrxCuFJQnhWxAtCB34UyFvWWWaIl486SZSuDD3uV6LWPBmxomTzTsYntjbYMXgtrT9Zlhoy00dJ5NdTLFKLt09LOXph0SOD/2+llz8yfAX3IPPHO6E5fJFCii1iVyC61Wz4uCfe2ryKVGA7Bl5hxdhNpiXONBkttoNma5GfOaPtXHzlMc7A7Pz5S5t4mYTgqc01xDOzmMJOYVXq6uD2Qn/NTcr953+8O2NFKikebTe7WocAqrDa7pckUz2TTQsiQfTSTvyIS6ZmMrPDgjZ0F3yjG6i3H5gP9n7H8P38g2sSmj6auZ4niZf6bZz3GKfs7f9/LHb7//o/iXdcD/+quvPwFoyJKM
+  - id: pair_74daf9b016c3457eb39a421ffba113d1
+    name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1567180437816.125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,27 @@
+_id: req_2e27ae8dbf744210a3154a86451bd37a
+type: Request
+parentId: fld_5f45c3116cae40889239a4e4df3be9be
+modified: 1559921957438
+created: 1559921957438
+url: http://150.250.140.41:7700/insurances-products/v0/unemployment-insurances-products/DSPO
+name: COMPRA DESEMPLEO QA
+description: ""
+method: GET
+body:
+  mimeType: ""
+  text: "\t{\r\n\t\t\"id\": \"DSPO\"\r\n\t}"
+parameters: []
+headers:
+  - name: tsec
+    value: eJxt1MeOs1YAhuFb+TVbNIMB0yTPSFRTfcA0m01ENQcwvV99/khJlEX27yd9q+fijlnyS02/P1iMPDE4gX/GEUF9ntM8/mRTmvpMIiyJ6ZyOqRP78cvPhhG2zfcH9sfp4+ciwK7IBjGaop/iROOiD/jiALTHcPs2jzzwmjl4QjwP1aZZ8xES1z7Q0J2uhIAEHMXRFRP7Vb3g+rJsXmY9N5FGGMw2nDDvn6V20jLx6mudj+Ag1kbaXDSu19CtUm5L8ryZ9qrHtmMEgbNNC+xMxUFMP6ow7hBMFLouF2TxKVJ77wqn90otXXe/Yms/yEuzvUHJufnLVHMsgNwzZnIUh8dhYiZaabwDH6m0Luwa5aLd6fz1aErGbecYN9artuTapNyYElW7LicQCRU4vnew0123rtzCsQlyZ3zEi3BxVvZ36dYE/xp6Em1PkE4r2TfZc0hRbUbZhFrGdywkXnW0uzylBqh7zzd1helosd41VWWD2UdDPyXqmZhwlYiS8cYM92BXefLsgp4HtOYPa6wdYCvPrgrBZh/yi3UG94BBdntLjLubluzwFV8vNX88pLWcMW+3nz7x4HF28iAUdirVlviFmGefbgY+xwZ1BNDXqWJKySv4/dyPZ8y2qG3JEZU8J7iINlzZGNKGhH2dxiHIrUgfYqNKlC58WC8MkzHUPgDFZPsmv661xPUvjifLrnXJwg00QwaGxq99YopC4OG3+gmNIiLQJp98EzWxyCDCQSsGipqfrVE/C06wCyMfHzRO3sZquRZtqjsK4pd4t5YPu7pJExCzBaBSJG2DbHP317rdQv+82ViDC4Ath/woZKLv51Uhi+48EbPmwGNAbT4qT06aOXe18I/AWhVHDqcUhgLBhkVmzdcwJatW9m4PgNBJsEhuJ8PItN8K2sytKllzvgwu22o0JQQQeFViWc8O7/e2ksN7iTcJyHt7U01JgDHAu92t0BGYRsvpLyjYGFWwHLkBvQ/dOlDiSbFyehvUloLFGakwc1p8VmCfp2U+7PL5iN81228se06ZEBRYXl4pa32u2VDCUVTozT1C1H7iKdBZ4abHjCpsqsQPW4zRb4+87U3ygCxW064N9xEcEhsdzbIofvc6WbtHgK3N3Ycx2Wf2rjDmmeAzE9g+IYmIctc8NJVXvm9kNZlEQ1P4o2ZBH+RROCfqSEcP1qT9B2K0C1lBvnrMKIvqIXgjo5pzcWoLqqaPFrW4p52ad+JGkErjiGL0yCz7sBY5GM15ZA3ONVVy/f6+oP9B5m9w9GznahiNP/UYx8v0lWZfSVt/JTAfoq/pt2hfSR0l2D/Tf/OL1CTD3k2/BePqVzvAqXj/iJKTpRkq8AJq6YJDWlGawuZ1Qf8vvqB/gfnzJ1m+vr4=
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1559921957438
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

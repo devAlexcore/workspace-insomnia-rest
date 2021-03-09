@@ -1,0 +1,47 @@
+_id: req_e7d625bc8d0446e89bc111b924ffcd05
+type: Request
+parentId: fld_6271fb9c7adc467687e04b8406d91caa
+modified: 1598027521267
+created: 1555082134059
+url: http://150.250.140.41:7700/cards/V00/cards?cardType.id=CREDIT_CARD&identityDocument.documentNumber=1208719&expands=indicators&indicators.id=SOAT&indicators.isActive=true&paginationKey=1&pageSize=99
+name: ListCards_LOCAL
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_446c280670494692b95b71db6b553794
+    name: cardType.id
+    value: CREDIT_CARD
+  - id: pair_cd4c90ba21be4421bf6cf619faf3566d
+    multiline: false
+    name: identityDocument.documentNumber
+    type: text
+    value: "92285796"
+  - id: pair_648895c58dac4ecf8eb7fc9570abbbcb
+    name: expands
+    value: indicators
+  - id: pair_54b4821391fd4da293b7e04127b1904a
+    name: indicators.id
+    value: SOAT
+  - id: pair_b5772759c69644dbaa9885bd8975f223
+    name: indicators.isActive
+    value: "true"
+  - id: pair_aa03a6235e76445688a7d068d096a15b
+    name: paginationKey
+    value: "1"
+  - id: pair_47665c46c4c7489d8b0e1b9cc262f44a
+    name: pageSize
+    value: "99"
+headers:
+  - id: pair_33faddb7f22f49f985900d67119d6243
+    name: tsec
+    value: eJxtlMmOo1YARX+lVVtUzWDggeQuCfPA2AxmNMOO0QzmMRoDq+zzl/mSVKQkyiLbo3OW9x7dKU9/XLJfH2lBkPThkH6yPMV90vkh/+RADj4ZOqdSJkkSMk0/ftzzcao69OvjO/v4OkooHbd+/ibC89GN1Vy2X1By8izHxZOIm6roMGacZRV6HPH/k49i1Zf5COM5/nq+UgKZY8yPVCjTDORSrHOUoRJ4xSn4t+/AeEglXuAa0HAjE/iTqmtGXbyfK5C6bcb53a7pU4tf+H7ZpzZ0ewHTx32Et2Ru9H0nvM1LraDMjci53dg3ILvTth+WR6EB0dxI6t2JbZ7j98qOshaynsdnrRGbJrTyEtpwXoBqiVKg4cLrfCEaJ3Adan9O/URjpBNKIa91IoYYj52lmbZJzcams3p/RMF10HB0r+M1OuhbuuksJYzgebNR+iDfD3FNu8IipRWHlVui+KKvei3vtafDhbUanlz3qvNS3DEQi3x+xfSlJUmEaV0PGSugcuTJ9inqQ0WGYWivAyOYmrBdA38ZZEmRO+aOqqI5oVsnVXE+VS/oRO+VEy3iySqPWH3JBfOkr5LgLNaVARucDwxDJk3yBES4KcGZIAxdkXuXLmHGpcASJ36wA3zZkTUebGUL1obZWIFc06Z+uxedz1lQ0wzptPxSreo+4SLpzKLYnIxtASJRnYqzUhPnAOd4wV/ZoOjRnbbrvIOMltx2VqosfMecyjTIPY9E3Ac+V7bra4xG0tc8ijX1y7egYUiFLke5q7eRtI2RQVu5BhhVikLB60KAftXtx9W60sRBaxjJXbkD3KQbrGYk3ho+Elrw8Me3FHLiCTHza7HRNWzmdUjCevJepkacpTrDoXuozg73et7cC8CxZwZ42EWnbJM4zw6SZawucuTxxY3sh5FxaM1lotKfxFpoY64v+C0x1v7FWKlMCiUJ5uWaO5R5TdjIAWB0WdNShtMgN8uaYoC6J/maHcq6Iu8tr3rSfIVajFTO4NRaGqS7lEOsPMHzql3GQCxwdLbqhgYhDa1FL0d1aHFc1Bc/MGTYCaUuJU7N490WOINYF9CPwX3xUKE9fF6XTxY7DZxTsYESFwxZ5Vq0+JjWC6i5Br2RR7IfbPdgVLoro9spXRVtF8XEN0onuOFn16X3sEatOb6UadMawwfzzi8tTWdM2wlyvDi3Xd+4t33E/zP2v4ev5pvwrOLp6zklyTL/zPKf4xT/nL/v5Y/ffv+n+Nc64n/91defvGaSxA==
+authentication: {}
+metaSortKey: -1555082134059
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

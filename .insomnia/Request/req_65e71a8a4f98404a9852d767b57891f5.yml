@@ -1,0 +1,38 @@
+_id: req_65e71a8a4f98404a9852d767b57891f5
+type: Request
+parentId: fld_6271fb9c7adc467687e04b8406d91caa
+modified: 1603137849521
+created: 1555081393652
+url: https://150.250.140.41:8700/catalogs/V01/catalogs/11/records
+name: Ciudades SOAT
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_60fc7f4d0f1346a0a4144e0227b52e8a
+    name: idctlog
+    value: CIUDADES-SOAT
+  - id: pair_40a21fed70d34459bb2a12ebf8395d63
+    name: page
+    value: "1"
+  - id: pair_dbceec24340a42c7a4a25f92494a18cf
+    name: pageSize
+    value: "100"
+headers:
+  - id: pair_0d04779bdf5f46dc98559cf8d522fd59
+    name: tsec
+    value: >
+      eJxtlMmOq1YARH/lqbeoH2Bmya8lZjCDMWAz7DAzXKYL2MAq+/xlviQdKYmyyKYWpVPLU2d/ztMfevbrAyO4PMWe7CdBfgeZEvTnE2eJT5LCUjIjc5KmuY8fjxzO9dD/+viefXyd5T6F+7h8NzwoB1gvVfclyV6e5agoiKhjiB7lJFlW9+UZ/T/4LNZjlUMpWZIvsKZY78CEg6dIISmJTZHB06aa5zSv4N6BJyVTKnM82zItC6kwmA3LtJviDTZGHvYF5Q63IYUO1bnxdcxd5I88IupHKcbOiFXQUjWZC3JV7kycf8gMLAHR1OERkpSeBcmryFQjtqy0HGQI73IdzypLDWKwqT5o/G1ac31VFNs3JjRWx4zNOrxE7/itswPjPpX8u9x9hog40cDyqN1YWDpB5XucAlftIvmCI8e6gtsKZE2RNLP7VBzAwqnq1TCy8KrwBvVKTeT2qG5byJ9eV0rJmqXDZwHt0rGnmVcZNKB9aYHYb1FmEmtLOugql0OzBWyq5hF1nbCepRxC5yN0wPRA8oAmVENYB3BpR0iC3UJN0OEG3sjIvGAze5c2X794JngIzBg0jFlEyBG0CMjanChOU2emu5veqwI+b8/t1iPGSW+thU4zUjil7mG/s/TSD6pj7fsF3/H9jvi6F8GtLy65Eu5JxmU6sB7356yHlZpplPm8emOBiu5M6STuyaaKuklgJaLH0fZeUWwe3Uqxd5kJ4WF0zYkwjc29u/X2fXpyVT0iIaPXl/htxKZCcwK+YJuIKBHCkHBaUXOvTE8IJUVX7VHr17pDJ+vNewPRWceaaOy1dgvRTkoZPhCm86sH6pmCpaytht9uxSE41TtbQHkp2XKeV1Y2CXB68zISJzaS2osqCKiCK/3pHcZKKAHdiP15c4prScrJswER3Zg9gXGbeZz4NjQpvfT39tI1eMPhvoLU1DGuW4LTc2L0i2zS9nCkF9qsRX95SyG6qE3UXc2LaGwiYxDHcImBh2VufaB2lilDv0gRa3VW2yXMLXq9L6riz1fRfEjasd+FQwXk5E1qd2tMGd5VZV6hZVTLCzPWEWlOSEVfCCjQIHGzaKb7St020iAlT1vXvrupWANcRXhis4IfSywiDCBR9enqnmeunrExHAATaLro5qVujGahPTvA6AtMKxT3PhNH5EVpawRRT1h+CKbHtVosiDq0yvBn9D+y/y2+ke88qJP5C8zP52v5meU/4Zz8XL7v5Y/ffv9n8S91Rv/6q68/ASSllVE=
+  - name: ""
+    value: ""
+    description: ""
+    id: pair_a31349dabe7c44a7b32596168a672fb0
+authentication: {}
+metaSortKey: -1555082180712.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

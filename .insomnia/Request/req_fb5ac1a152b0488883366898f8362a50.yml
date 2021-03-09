@@ -1,0 +1,25 @@
+_id: req_fb5ac1a152b0488883366898f8362a50
+type: Request
+parentId: fld_4ad90896062e47c9adc83cd31ef7e539
+modified: 1574948381795
+created: 1574948347014
+url: https://chameleon.work.mx.ether.igrupobbva/auth/token?grant_type=client_credentials
+name: chameleon
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication:
+  disabled: false
+  password: 8F9B3F78D498149573DC90932C5BBF300D65839A
+  type: basic
+  username: co-seguros
+metaSortKey: -1574948347015
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

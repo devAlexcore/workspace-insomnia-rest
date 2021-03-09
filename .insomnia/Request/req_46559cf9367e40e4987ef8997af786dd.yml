@@ -1,0 +1,80 @@
+_id: req_46559cf9367e40e4987ef8997af786dd
+type: Request
+parentId: fld_4ad90896062e47c9adc83cd31ef7e539
+modified: 1559921994120
+created: 1555087844278
+url: http://150.250.140.41:7700/cards/v0/cards
+name: CreateCards
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    "cardType":{
+    "id":"CREDIT_C"
+    },
+       "physicalSupport": {
+         "id": "NORMAL"      
+       },    
+    "participants": [
+    {
+      "participantId" : "98768653",
+      "participantType":{
+    "id":"AUTHORIZED"
+      }
+    }
+    ],
+    "grantedCredits":[
+    {
+    "amount" : 100000,
+    "currency" : "COP"
+    }
+    ],
+    "delivery" : {
+    "address" : {
+    "id": "003",
+    "addressName": "addressNameaddressName",
+    "country": {
+    "id":"CO"
+    },
+    "zipCode": "00001"
+    }
+    },
+    "relatedContracts": [
+         {
+    "contractId": "4594180000002356",	
+    "numberType": 
+    {
+    "id": "SWIFT"
+    }
+    ,
+    "product": 
+    {
+    "id" : "CARDS"
+    }
+    ,
+    "relationType": 
+     {
+    "id" : "PHYSICAL"
+     }	
+         }
+       ]
+    }
+parameters: []
+headers:
+  - id: pair_94d6a89b7097474991ea7032a6f2bf71
+    name: Content-Type
+    value: application/json
+  - id: pair_0ccbc646554a43f1995bd52f037526f1
+    name: tsec
+    value: ""
+authentication: {}
+metaSortKey: -1555087844278
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

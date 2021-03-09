@@ -1,0 +1,33 @@
+_id: req_87fdf5a334a2403285caaac320ea9e17
+type: Request
+parentId: fld_33fdb38b7e86438986a73534ae520347
+modified: 1581006849963
+created: 1570054115037
+url: https://150.250.140.41:8700/lifehealth-insurances/v0/lifehealth-insurances/00130176004000468015
+name: getLifeHealthInsurances
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_eab3fbb82f1e4824b0a0c6194caa0394
+    name: insurancesId
+    value: "00130176004000468015"
+  - id: pair_9a86b18c1a44498f919ee9402e3b7e21
+    name: expand
+    value: beneficiaries
+  - id: pair_01f95dbe84b8434ea94af362a7777ab0
+    name: x-forwarded-for
+    value: 100.100.100.100
+headers:
+  - id: pair_0740a6568d7a42c2853b1c7cda308f65
+    name: tsec
+    value: eJxtlMeOrFYARH/labZohpykeSORczc00ISNRY4NNFyasHp7/6W/xGPJtrzw9qhKqs2pT28psh9a/vMNT4i8LEvinaIR9J0gCOo9ySn2nSJTFEdzDEuY7O3HvZiXZhx+vqG/IW9fn9KQzccEvgnXV+PcgPrxJUpukRewwAuwbQguaSd53gzVJ/x/4U+hmepiFhOQfPVrhgz2nLAzFskEKTIZNLrqs+FY1S3ZLXDF5JlJLMd0dMfMZBgshmVe2nLrd1oaDwCz560l+AessdPrXB6RN3GQARvVA6vnxYpIT1TGNdHxM5US2xfpqm/iSbfsdcWgsL13psP5ld+zWCnoa6gN3gOiJ1ufwHmOZKxcQ8644NwYVDgNUTbDIXtlZ9cO6tDTxJieahPoNvkDrbD4s7/j01MtlsI8khm/SicJXrgYlhM4ypnghSWhKGpvBc6eaRb3FUfkJEvViSc+GN5hXBecKpxuJfEYaQnfKE9f5hSVVyHDkj2NgxOgYiVL75sObdhuVLh8C/pmc6GujhKCozZ6WjHKHRxLA6TvzyiCSwGkOlmvZndksnwzxRvyUjqeoxE3OecQVLGBnALrFZuUZG0WQ/XKqh9WHy+pGHtqHJI5GHWeN82TvYynaTqLfrzA1QqgZayti3PFYmeoaEcUrLDY7SYFxy12vDCaEm1ztTLRKsk9I9JileiIYGSrIWjStO1UaFZJ4Wo2eMEeKdgLssK+uyOIvtfYB3PBE9p/ClEjCuflwnb5/CCwSNgyp8P9SPOuAeERF+FRCeRcXHKbXhGRe1kiANe1KvVl3bChca9FbK/u6YS268ikGtpxeDf8iedEDe/l1j1gKas2OMkkKIFyjoMyfaKY+w3LjV5FdCC1NQxHJ2ckjbrIkOYWKB+l5ggr9QOF+dS9VXtaHah2q2q0i4RWaBDI5lUbMHZCsfLQCgq/7p142y1+BwqzIdzTgAbakkoa3t3g1PfmBHeroLSMQOuOap46NS1DuqPhc0dxnxYctnKLS6QK99TYm5vt10LZjErmtMoLOLpmEi0WFKYeMnwln5WUp6hHUmrbiNTiXkvDKDObcvyId/uYKWRB10L84oizue9Bfz8mpr3pklajghOM08MWUpr0lMyFSAGpaoqyOsbp+v71yiOwkes3LVDJilGmT1MX3EAzbBbp8hCj3jGGtqLgDj/jpXJSJu3k6RP+j+x/i28UB9c3yfLVL2n6Ah958TEvyQf4fqU/fv3+T+Pf1Cf81199/Qk4AI6D
+authentication: {}
+metaSortKey: -1564637093092
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

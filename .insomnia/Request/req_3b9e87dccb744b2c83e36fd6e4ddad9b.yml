@@ -1,0 +1,107 @@
+_id: req_3b9e87dccb744b2c83e36fd6e4ddad9b
+type: Request
+parentId: fld_5f45c3116cae40889239a4e4df3be9be
+modified: 1602861631900
+created: 1559921957445
+url: http://150.250.140.41:7700/unemployment-insurances/v0/unemployment-insurances
+name: COMPRA DESEMPLEO
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |2
+      {
+      "product": {
+        "id": "DSPO",
+        "plan": {
+          "id": "DSPO0010011806"
+        }
+      },
+      "holder": {
+        "identityDocument": {
+          "documentType": {
+            "id": "CC"
+          },
+          "documentNumber": "1126905810"
+        },
+        "firstName": "JUAN ANDRES",
+        "middleName": "",
+        "lastName": "GONZALEZ",
+        "secondLastName": "RODRIGUEZ",
+        "address": {
+          "location": {
+            "addressName": "CALLE 8 #11- 12",
+            "city": {
+              "id": "263"
+            },
+            "state": {
+              "id": "91"
+            }
+          }
+        },    
+        "contactDetails": [
+          {
+            "contact": "3102775547",
+            "contactType": {
+              "id": "PHONE_NUMBER"
+            }
+          },
+          {
+            "contact": "JUAN.GONZALEZ@BBVA.COM",
+            "contactType": {
+              "id": "EMAIL"
+            }
+          }
+        ]
+      },
+      "isTermEqualOrGreaterOneYear": "true",
+      "isWorkingForMoreSixMonths": "true",
+      "contractType": "DEFINITE",
+      "paymentMethod": {
+        "period": {
+          "id": "QUARTERLY"
+        },
+        "paymentMethodType": "DIRECT_DEBIT",
+        "contractId": "001301420200381581",
+        "productType": {
+          "id": "ACCOUNT"
+        },
+        "number": "001301420200381581",
+        "numberType": {
+          "id": "CCC"
+        }
+      },
+      "beneficiaries": [
+        {
+          "fullName": "ONEROSO",
+          "relationType": {
+            "id": "O"
+          },
+          "benefitPercentage": 10000,
+          "indicative": "ONEROUS"
+        }
+      ],
+        "automaticRenewal":{
+      	 "isEnabled": "true"
+      	}
+    }
+parameters: []
+headers:
+  - id: pair_7610a8ee8c4e4e1a98a6b5d5c9eecafd
+    name: tsec
+    value: eJxtlMmOq1YARH/lqbeoH/NwJb+WmA3YgM1o7y6TwcwXMOBV9vnLfEk6UhJlkW3p1KKkqjr4U57+MLJfHxkHBZbKyE9AZsUnU3DgU4B5/pnnHAQCA2iKKT5+hDmaqr779fFt+/g6qF2K9mH+VsTm0aNqLtsvRfXyLMdlScZdS/ZYF2ZZ1T0O+P/BB7kayhwpcIZfzZISnYsgQNRNY1hFSLHeO46VCI5eAdbIU+CYqkAUar4WEBtHk3U+2c9ibTZe7fcZB+/rk5Fa3ADD6z21N38QMXE+gkB9U3ZKZZVJRI6g07B7mldKV1OUn9HxNYlCKaeRySpSK+AOI9N1Vk3rY1t9ZwW+hfPneAJUMbkngjo2W3ul/dHPHq5M2Zp09J7BeHryD3ZBuqljXvC8D7GhnYVBzE9yVRYh4+zpO9ivHKK4S13bXWmerPrmpdo1Luvm7HtyM2LzhMEUOI+Wa3XbE/i7dV9v1/NNDQqZneSiiZWi2NEq+spIacDj4PAGLLvTi13ZURul/jWDuaoHpuK8an6o2iibWlfNWn2ugJ/jZW2mXITweHwZ/KlrQ1Hn2/JOQGnhkxsutitHbAXJG6CHz6ayXx0dxU9F5NX5Djv8URpKYorau1LJxo5sLGGOdexODzxruuvtvie5r7zbIL8wNgxh5F7uXWXsAkmHThpXITkuIxM8jzgjRtQTiLBOmgXRgyjnizG7cPQ86midlT1eTmuu9zpLDF1yaQZTR/SZVB9l4vZB7lyqwbGHI7IlG+O11NsWbXHlsNm68IIoc1r25DjdVFwG8kiKc2yMPIXGW2jCJPWmxh2vexRMhJiwAU7dzzWJ5pjOxO/u762z4oviPLFAYKO6kfpbYAsJ7eB66TeEF+vae0VN23ujn8sZn3uWSeuhwb5nydJeTfbyND1ZkMQ82M6va88AKsKmVAzscc+ATk2+unMRgegb5vLdhaiuHqjPWK99x5uwseazqxrkpmmdnMz9LgSyOeUSYrgob4ZVz6ojur252avxiNtqLjJEYCDK1nvtttqbdKgithoomL0C/HQzZvK0a6eVqGVSaNQ2vbcCgH2Crx5PGKF20aznWOHb2OJLR5PxIF165KbJVuXuOtgeBqUTEW5IPoEjKAP0DgNL63q5Dpf4Mi5MSlkwLnXLIVe5AlLwrpCpyp0JCH7D2TQI6GG9CxdhF+XUlrlYOOD/Gfvfw7fyXWwqOH01U5K85p9Z/hNN8Of8fS9//Pb7P45/qQP+1199/QmbDJSk
+  - id: pair_d7877f77a8f545419e324656779940a3
+    name: Content-Type
+    value: application/json
+  - id: pair_4c6080ad6abb47b79b1d1ef14d51f80e
+    name: x-Forwarded-for
+    value: 10.10.20.30
+authentication: {}
+metaSortKey: -1559921957445
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,28 @@
+_id: req_df3df5a9ce4740c788e6b75f7279f036
+type: Request
+parentId: fld_4ad90896062e47c9adc83cd31ef7e539
+modified: 1602862633379
+created: 1555088012672
+url: http://150.250.140.41:7700/customers/V00/customers/{customer-id}
+name: GetCustomer
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_a08703b29708414eba4f76d32852f7db
+    name: customer-id
+    value: ""
+headers:
+  - id: pair_42a0e75c869843428bc01f7b118db1ea
+    name: tsec
+    value: >
+      eJxtVMmuq1YA+5Wnu0X3MQeQ8q4Eh3kIIZDAYcccCEOYh1X3/ct+SW+ltuqiW8uWJcv22Ruz5IeW/vpIYywiGeL0SXAJ80lxKfMZxRH2SeM0yWQRRbFc9vHjkQ1j2bW/Pr5lH19nqU2G/T19I3xddEM5PZsvUXKzNEOBANCrAVz6GqVp2RZn9P/IZ1C+n9kgRlP0Vc8J1l6HiBsIKFO0yCZI56p9yXOqm3Or74pRn0gcz76YFzvQgT8alnmp8rXeGKnbJ5Q7bhUlNKjGvZdjbKD35pEL6l3zMgVMIFliR2V1e49lQFXd1oizWRzd6T0vZQx2lru4g0C+jR4f+8mowCsNMsR54SyoBVd5O+zpsDinqRFOLzCoR0y7AMSWx2XWj9d4LeY0qgMDAf4UOlM1bGouK6hrGUsZMiohBLhTDi7uotIkwHKZvAjnb/ZMAs4M++nEs0KXZY5ogWpetnqW0pQYKzU6paXixZtR6Ki9BnoOsXk4oLFv8eroe1e4U7WeFBrDn04XkZx+c8J3CtQWGJsoRcPFxIEbUAvuOFEiv31BA6mx9Plu3Q48fo4ly3YXjE4QmoIH0H26sxJbJUKu7jFLgtmzxGHIbuXYXtVx32+WqCnBbNzQjWRWcQOPRjEtKg5I5aG97NM0DjDbL3np2Ov1O7TJnA80usOFCpIYew3xJDGWFZKpAfgj1zjqrt1PDifedmcQFoGZn50beKolDfKtVgQP7hbQzINglWkVoKqyU1tShr1rl3v9be5bnZUij6BKDlrL6PcVOrpMlbdlz3xS7IwgmFmOwvCkbwzA9MnTXAIjYs2wsJEOLbi37SKSrGD+m7FKUMAIt0fd3Ar+4CEMRe9aotZqD/kiNdlBYIquJbACs9F4vp9Xmbu5sFWKomhouyvN4FG+HjWxCcq9X0f2jqF6r4yAYLKAVaVIZoqHTqNB4CerH9ffhXBl5ZbTzQqe4zYHu7wEU83sFSxcDc3xPu0X94VQBp/WYCE1w8J6Hd5ngT5CLs+3XN2afS22y8nmLAKkbZxK0CUJb8/livSSbiNQUeDhZSRCvrs/FkSfL95lV32yDxrWmFUb7u5DDKMOdSX+omZ3mWpgm5Cv4T6jmY/fDmzEEPqEbuBZpSt0zKsdjf1TI7F6Jjs9O2rsMMMIvHjqdCj3F7YHmdFaJidXPohp73FKmmG/PhMeUnVwRv8z9r+Hb2Q7X5fR+FWPcbxMP9Ps5zBGP6fve/njt9//UfzLOqN//dXXnxaolqM=
+authentication: {}
+metaSortKey: -1555088012672
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

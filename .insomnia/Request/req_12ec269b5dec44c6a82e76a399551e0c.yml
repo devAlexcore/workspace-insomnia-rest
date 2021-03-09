@@ -1,0 +1,27 @@
+_id: req_12ec269b5dec44c6a82e76a399551e0c
+type: Request
+parentId: fld_4ad90896062e47c9adc83cd31ef7e539
+modified: 1559921989956
+created: 1555087978660
+url: http://150.250.140.41:7700/customers/V00/customers/{customer-id}/addresses
+name: GetAddresses
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_87e55472c1e841fe95dacece16907cc4
+    name: customer-id
+    value: ""
+headers:
+  - id: pair_bfba8a763cd54c9ba9466cd485785694
+    name: tsec
+    value: ""
+authentication: {}
+metaSortKey: -1555087978660
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

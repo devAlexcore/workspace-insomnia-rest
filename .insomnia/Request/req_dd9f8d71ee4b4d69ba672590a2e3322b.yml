@@ -1,0 +1,46 @@
+_id: req_dd9f8d71ee4b4d69ba672590a2e3322b
+type: Request
+parentId: fld_6ea9b900994943dcb70c643affc7c8fe
+modified: 1597867433378
+created: 1555077942349
+url: http://150.250.140.41:7500/TechArchitecture/co/grantingTicket/V02
+name: Ticket Movil
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    "authentication":{
+     "userID":"NICKFURYCC000000079694396",
+    "consumerID":"12000001",
+    "authenticationType":"00",
+    "authenticationData":[
+    {
+      "idAuthenticationData":"iv_ticketService",
+              "authenticationData":[
+         "Oe4YZyntAWJuzKmpFfDJHBUjezmQufjoUjKVAuvKQtx9G5Eh24m/4QjgtP6U88H6"
+      ]
+    }
+    ]
+     },
+     "backendUserRequest":{
+       "userId":"",
+    "accessCode":"NICKFURYCC000000079694396",
+    "dialogId":""
+     }
+    }
+parameters: []
+headers:
+  - id: pair_d63f00366c594605a0bac834c51dce1b
+    name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1567182350985.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

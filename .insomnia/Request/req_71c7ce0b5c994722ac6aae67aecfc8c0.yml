@@ -1,0 +1,45 @@
+_id: req_71c7ce0b5c994722ac6aae67aecfc8c0
+type: Request
+parentId: fld_4ad90896062e47c9adc83cd31ef7e539
+modified: 1559921980397
+created: 1555088225604
+url: http://150.250.140.41:7700/risks/V00/black-listed-entities
+name: GetBlackListedEntities - BAEP Global
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_6d0d3d6bb7cf468b9df5402641c455ec
+    name: documentType
+    value: ""
+  - id: pair_4090a244bfd24c8d9156bba84490942c
+    name: number
+    value: ""
+  - id: pair_df512f9f194f41bfaeb3182a3f0fc792
+    name: lastName
+    value: ""
+  - id: pair_325932366f024ba386ebe0b5f7895053
+    name: secondLastName
+    value: ""
+  - id: pair_0df7ac0124264ca48c076800bfbed6a7
+    name: firstName
+    value: ""
+  - id: pair_04e8fe37755942ed870d506443a8cf16
+    name: middleName
+    value: ""
+  - id: pair_d4a42b7d9a474f56886c27778ed8afb7
+    name: legalName
+    value: ""
+headers:
+  - id: pair_2dc8a6dca6a048b4a552db8c251c5e7d
+    name: tsec
+    value: ""
+authentication: {}
+metaSortKey: -1555088225604
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

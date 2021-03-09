@@ -1,0 +1,46 @@
+_id: req_1aba017d68cc44078b73c457e98b496b
+type: Request
+parentId: fld_6ea9b900994943dcb70c643affc7c8fe
+modified: 1615300880380
+created: 1597964429759
+url: https://dev-arqaso.work.co.nextgen.igrupobbva:8050/TechArchitecture/co/grantingTicket/V02/?
+name: Ticket NET Hector Julio
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"authentication": {
+    		"userID": "CC000000099109437",
+    		"consumerID": "12000001",
+    		"authenticationType": "00",
+    		"authenticationData": [
+    			{
+    				"idAuthenticationData": "iv_ticketService",
+    				"authenticationData": [
+    					"j7A6d9YWrEnSRBSqBWzxc9D8kAwK4PXysO2kR2KNItbRoPlfjnCOUA"
+    				]
+    			}
+    		]
+    	},
+    	"backendUserRequest": {
+    		"userId": "",
+    		"accessCode": "CC000000099109437",
+    		"dialogId": ""
+    	}
+    }
+parameters: []
+headers:
+  - id: pair_a30f11cc34934b468c01167c3cb0fc7f
+    name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1567181713162.375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,30 @@
+_id: req_9c423c4dfc91431491630a4923d9dd41
+type: Request
+parentId: fld_6271fb9c7adc467687e04b8406d91caa
+modified: 1583936234448
+created: 1583936234448
+url: http://150.250.140.41:7700/vehicle-insurances/v0/traffic-accident-insurances/quotations?insuranceExpirationDate=2018-05-28&licencePlateNumber=EBX996
+name: cotiza QA
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_a9b67eac7dc7461b9d950e2ea810b347
+    name: licencePlateNumber
+    value: BZT352
+  - id: pair_054d676d70ad45589f39dd4f94fd24f7
+    name: insuranceExpirationDate
+    value: 2017-04-02
+headers:
+  - id: pair_b9683031d1f949e89baaf1f286f96162
+    name: tsec
+    value: eJxtVEmOq1YAvErUW+t/wPDgIXW3xGgw2ExuBm8i4DHPg5lW2eeWOUk6UhJlkV2pVLUoqareH1MS/6KijzcGhGwaQeIHFVL4D4pNwx8Rir8RQcYEDQGRJMTbL24yTkXXfrwRv+Jvn+9SG497P38zXJ11YzHnzacoOQlKMIEXMFMTHGCGCBVt9o79n/hdKPo8GcVwDj/rV4y35hiy4zmQKSDC+NQ5ylBwrOKk7Oo5YjjEEsvBiqngCHxv0m76vUzXemOkbp8x9rBLim8wle2XY2qCR8+dzK+nc0Hga6n9oYoTMLrEvLqNtA+ER4IlGSNlkhcUaUEWsQ93BktVmSrWyT4VoF4JYhcedSkeWJIya/01METl4bfGQuyIx8UJscm+QS6QFJwkB0OpspFOUoKgC0MHeFnBqd62q+DIEFxKmXvIyxBgK3gegb1ZY71ZuEW66ivwWFKpFUGtUv2YvyREcw1CLGnZry5soUQdUMUT37sbuUpX2LVkuZyjRRZP97Ol88EaNK80Cw8D1j4cvmOxSSSJlj3GQFkbiv9Cm1vf6UsXEZSgPh4C4xK+fDVM1s3mY9030F2aYPGsiaSDBCMUzcnlwz6xIoEl/X7pKvu1Nqhp29OQz/Sm4AXK967INinjLobEhGu4OsWlrex6ecZS7990qLbHpMk7drp0s0vEDGvEwUBGiTzkz8vhbE7O2g3e3hSAuN0ctjTT73R5z4gWFAzwTIqHELD01mjakz5w+nCOVqpJGxNxK32ASadSh/H7/gV0YdzkwbZM+TbnUOYzzu+sLSjjFZCWUSa2ed4GxA9ltAyIWbBX03M7lM10COHukQ4dh1KTH10xwviJ+s5eebE6t8ZWlabPiBjVG2MDh30r1T3g44W2580BfFvgSueFI3waR0j6Mbq/4EnYRfFZUFTJduk1jCW5IPXg1PK71TTlxTvboTzV4DH7bP3dmpFc4nSTIrzz66a1Nqs54S4db9FVGvx6wY0bo/Ea/ooEeAiuzt+Jftflk7lws/no2qt5lD24OELqOkQk8Cb1nM2TA85Juwi39PpCruxaIpxcjDODhqfP7l533uFcPZuQzyva1VTGnP6aB1NVGAkdHf0VNFpi2WzHE0n7LDQY80+fNfPSsHJJEXZNody60bMZ45shC6wU39u9zemwVcXFjlXUrKv9jO96FUckyj4+3rH/jPzvwWvJztVFOH3WUxQt80+U/Byn8Of8/UZ//Pb7P45/Ve/YXz/1+Sen2ZUY
+authentication: {}
+metaSortKey: -1555082320675.3438
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

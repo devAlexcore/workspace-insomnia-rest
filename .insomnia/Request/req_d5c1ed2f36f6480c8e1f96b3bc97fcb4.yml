@@ -1,0 +1,27 @@
+_id: req_d5c1ed2f36f6480c8e1f96b3bc97fcb4
+type: Request
+parentId: fld_6271fb9c7adc467687e04b8406d91caa
+modified: 1582815270550
+created: 1559921645109
+url: http://150.250.140.41:7700/insurances-products/v0/validate-insurability
+name: icsk
+description: ""
+method: POST
+body: {}
+parameters:
+  - id: pair_e31ce5c743204548a34eb944a1f8906f
+    name: ""
+    value: ""
+headers:
+  - id: pair_18c844e4ef224c5b82d8799d9ef222f1
+    name: tsec
+    value: eJxtVMeOq1YA/ZWn2aIZwHRp3kg0G0wxzRi8iS7l0juYsso+f5kvyTwpibLI9uicsznl05vS+Iea/HzD2BSkKU6+0yCJ38kUpu9RTGPvHMBJAhCQBhR4++Gn41R07c83/Dfs7etTbuNx7+dvhK+zbizmvPmSZDdNUlQURNTSRJeyQJIUbfaJ/h/5Uyz6PB0lMIOveomx1hoBN57CM0lJbIx0rjIUPKe4kFsfrgSGWOZ4tmIqdqSCx6QZulnCtd4YudtnlDuckhQaVOX61zE1odfziGXIjeHbi36mXoTnG+0emUlirmMWFdm8xA1JnM6nZ+S8YopYXTOMz8tSJMswQibzo15p8rtbgPgEkAgTEn0WYqQPvUo/okbaYrO+1GaNMsfK8V4UzEKe3Esnom96m7+qsSZ9eoH7zElMsolxoi6e3aKNSfKOdKPnax1K+9OnKUqcqmM9xPsk5+kllPoOQ7Dj0VaU1F7t2Vr5w6FR4JPhzb7wOhZeqMNetIZSGjcQu9rSd6P2AhJKaEg67uhPGLmN4WT2RjbWtu5hIVm3EIf1CM3htLDV/eTEjq8JINC2i9Fj+cQ4J0O4sRaLBSPgqzpTZ10rXYTOUMSWmhA/etDLdJxkDDFbW327h7aDT/0AO7N3nVeUi+WaUJ1Nu/wONQpiOIHuSKp0UxaYcjIh8KiKa26kZhzGa+7r7jPrz9jaOAN3jeTC7UkFgPNlWO8m4rJ52j0p/YzmC0Cvjn+e5ksT34T+oiCRfVd5Lsv8Yldv+yAHu7nnnYGVIe0ZGjm0iLmpLTmgDP9kEMqC1EMbjlkWI0qJxl35Vj4TF68s+WBZYmUlg/bmh6o/1rFWzdZT1WWqwk3YKjuCj0eGbFmfKYus68YtdIsyIYoa6dKzRi7dceoETRn4YNVxiL/am8EQWqvfjEBmvQWQSX8OMgQ8Dxl21IaS/MNd7MNS6pGXijgUkuIKTaxvja3dUQyrrJeoXtOqRG+e+nAvCgaVnh6urnB3Gh+RKrX0TXqK4Nozhb3s89C2J3wPiMJSRe71gJGKrZAJUKfcHlsQEUF1BiwblUm7+RTNbvNy/k7ziYfSIEjPE+hf2twQV1psVlsSMBhFWfvLaTt8kpAUBMpeXnVrzed2oMwWeuysVqpkhMsiR1bP2Ik3VEi2mJRboVwmt9fcp8aGSJQHSfhdGXxljky5z/v4if5n7H8PX0t3vi7A9FVPUfSaP5L0Y5zAx/z9Sn/+/sc/in9Zn+ivv/r6C+iUmhg=
+authentication: {}
+metaSortKey: -1559921645109
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

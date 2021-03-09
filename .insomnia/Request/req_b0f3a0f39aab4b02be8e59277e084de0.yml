@@ -1,0 +1,30 @@
+_id: req_b0f3a0f39aab4b02be8e59277e084de0
+type: Request
+parentId: fld_5f45c3116cae40889239a4e4df3be9be
+modified: 1602862762922
+created: 1559921957467
+url: http://150.250.140.41:7700/insurances-products/v0/unemployment-insurances-products/DSPO
+name: Planes_DESARROLLO
+description: ""
+method: GET
+body:
+  mimeType: ""
+  text: "\t{\r\n\t\t\"id\": \"DSPO\"\r\n\t}"
+parameters: []
+headers:
+  - id: pair_8e3a00ea260248ea97ccfa551e5e2915
+    name: tsec
+    value: >
+      eJxtlMeOrFYARH/labZoHqFJV+o3EqmBDnQgs4NLuuTUpJX3/kt/iceSbXnhbalqUSrVOVpjAn/o8a8PCrIkCJnokyNj4pMGYfjJk5D6hFEShkl8YKgo+vjhJMOI2ubXx3fs4+uoNHDYuulbEaqsHdCU11+yYiZxgkuihD8uksk8wjhGTXbE/898lFCXJ4McTuFX9YZE8xhCMFD+iWZkHmKtqfVIAJqZgsU15bCHChD4kiv5gfHc8XK7GkW6VCuntNuEg/1V0GKN66Cb97H2rU7ADG/1Ya6ceSUO9sML5lhfhexU4fZJajdVp8pZB3Tp2DH0avGuLUS7BVWxGp1JWxVjwGLz8wN9bkK6kwzbmexCsEtRGZdkcprUmMj7o76KkWS+hcCA8dSakDuzleWPoIGyn+KRLlkCeR1CPNZ5DcfahJNznllEcwmeHSrIIuPk98oiA6UX6UEyl5L0qi14HEYqdNBI9MvzwfKB0KS8xjKrgavrfHW9FN0H1Cq6JkqpU1ipGLc75axm7Y/YwNdj/fJEx6T6IKi7uuEn9kI84NDBx70YWt4WLrzLhSqL67QpuQTUmieXC+pOLTSPkvbtdmfvDIZaNLP7hkTYnJMEaLmqRe9NiouADigzPyQAEt/rKgC3gSCCJS0rdUjVe5aDaXUuBr0/wTKP80JwxTtS/ZmR5ia1h3m4aVYoO09h55qhAqjeYKomumwstKsuPYk5ns5AKpuLKMavdw/rT/crI1DNWaje3q0S6pB6pRsX0oyQODg2r9xpjdOVrk9qpjkydqrYRNszrsRq6uopExeTzUFrKDLDpsdI3s42qNIuZawVJ5Fddc83XfYSh3eWhHUg90Z8lwfYEwRVFSWwLZ/TDLG0LYGLOF2n3C5VUHKfnJuo3u65xSq32BmDXS1ZPZIFlnDQKahbyF4z7j1uWpNsfMLzZeTUHRqdZGSLW5dlyM/kW0QeWqT0IzYPXIEHp4uwuSexXXGb0Ifg8N1LpAIOqCdkc8QYz0HO9V5up/RkpcbYP0OLZ9ETMVpQBwgvNNGsWxmNWjnUbwywntVrcxmSau89oDwA662+bq5LM77IiiLQAssuiJJk4hbf/XpQVfmw3vfHutaZabxMbya6g9G2ZzMqcBdVEUB+QSWkWiydFrEnzL0GWUVcCHn2dtMxL42AZ91zx0haji4wvbqHXXTPRn/E/3P2v49/STahQuH4VY1RNE8/4+TnMIY/p2+8/PHb7/8k/nUd8b949fUnfceV1Q==
+  - id: pair_6b915b0e6b974c61984c925f5d6ff65d
+    name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1559921957467
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
