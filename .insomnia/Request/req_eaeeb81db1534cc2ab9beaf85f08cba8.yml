@@ -1,0 +1,63 @@
+_id: req_eaeeb81db1534cc2ab9beaf85f08cba8
+type: Request
+parentId: fld_0a248d5a5b7f4e838743efb57f6f1ab0
+modified: 1615308688686
+created: 1615308688686
+url: https://dev-arqaso.work.co.nextgen.igrupobbva:8050/TechArchitecture/co/grantingTicket/V02/?
+name: GTDEV
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: "{\r
+
+    \   \"authentication\":{\r
+
+    \      \"authenticationData\":[\r
+
+    \         {\r
+
+    \            \"authenticationData\":[\r
+
+    \               \"yCo9Ut/PTsTshe0lGA/xNSAvDwgsPsK/gNCkWThqol0\\u003d\"\r
+
+    \            ],\r
+
+    \            \"idAuthenticationData\":\"iv_ticketService\"\r
+
+    \         }\r
+
+    \      ],\r
+
+    \      \"authenticationType\":\"00\",\r
+
+    \      \"consumerID\":\"12000034\",\r
+
+    \      \"userID\":\"UCQGZICD\"\r
+
+    \   },\r
+
+    \   \"backendUserRequest\":{\r
+
+    \      \"userId\":\"\",\r
+
+    \      \"accessCode\":\"\",\r
+
+    \      \"dialogId\":\"\"\r
+
+    \   }\r
+
+    }"
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1615308688686
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,65 @@
+_id: req_c5a1ad971d5840aaad0fab552e4f2fbc
+type: Request
+parentId: fld_eef8d59596ca4d56ae773112357b2ca8
+modified: 1615308680837
+created: 1615308680837
+url: https://dev-arqaso.work.co.nextgen.igrupobbva:8050/TechArchitecture/co/grantingTicket/V02/?
+name: GTDEV
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: "{\r
+
+    \    \"authentication\": {\r
+
+    \        \"authenticationData\": [\r
+
+    \            {\r
+
+    \                \"idAuthenticationData\": \"iv_ticketService\",\r
+
+    \                \"authenticationData\":
+    [                    \"06Vl5yFEGRwD3uu3QxReV5nx8EYPAvlEaZDyXUKvNOYR3U4ACIt2\
+    c1Cj9lZaMXVa\"\r
+
+    \                ]\r
+
+    \            }\r
+
+    \        ],\r
+
+    \        \"authenticationType\": \"00\",\r
+
+    \        \"consumerID\": \"12000001\",\r
+
+    \        \"userID\": \"THANOS50CC000000079626263\"\r
+
+    \    }, \r
+
+    \    \"backendUserRequest\": {\r
+
+    \        \"accessCode\": \"THANOS50CC000000079626263\"\r
+
+    \    },\r
+
+    \    \"headersRequest\": {\r
+
+    \        \"x-forwarded-for\": \"0:0:0:0:0:0:0:1\"\r
+
+    \    }\r
+
+    }"
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1615308680837
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

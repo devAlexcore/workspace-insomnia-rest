@@ -1,0 +1,137 @@
+_id: req_70393707fcce42be8b5e50ead5911324
+type: Request
+parentId: fld_0a248d5a5b7f4e838743efb57f6f1ab0
+modified: 1615308688674
+created: 1615308688674
+url: https://dev-arqaso.work.co.nextgen.igrupobbva:8050/insurances/v0/receipt-data-registry
+name: ICS7DEV
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: "{\r
+
+    \        \"participant\": {\r
+
+    \          \"participantType\": {\r
+
+    \            \"id\": \"HOLDER\"\r
+
+    \          },\r
+
+    \          \"identityDocument\": {\r
+
+    \            \"documentType\": {\r
+
+    \              \"id\": \"CE\"\r
+
+    \            },\r
+
+    \            \"documentNumber\": 406306\r
+
+    \          }\r
+
+    \        },\r
+
+    \        \"renewalType\": \"YEARLY\",\r
+
+    \        \"policyPeriod\": {\r
+
+    \          \"startDate\": \"2021-02-08\",\r
+
+    \            \"endDate\": \"2022-02-08\"\r
+
+    \          },\r
+
+    \        \"status\": \"ACTIVE\",\r
+
+    \        \"fees\": {\r
+
+    \          \"totalFees\": {\r
+
+    \            \"amount\": 0,\r
+
+    \            \"currency\": \"C0P\"\r
+
+    \          },\r
+
+    \          \"itemizeFee\": {\r
+
+    \            \"feeAmount\": {\r
+
+    \              \"amount\": 0,\r
+
+    \              \"currency\": \"COP\"\r
+
+    \            },\r
+
+    \            \"feeFrecuency\": \"YEARLY\"\r
+
+    \          }\r
+
+    \        },\r
+
+    \        \"relatedContract\": {\r
+
+    \          \"id\": \"CARDS\",\r
+
+    \          \"product\": {\r
+
+    \            \"id\": \"00005536430012821881\",\r
+
+    \            \"productType\": {\r
+
+    \              \"id\": \"CARDS\"\r
+
+    \            }\r
+
+    \          }\r
+
+    \        },\r
+
+    \        \"insuranceType\": {\r
+
+    \          \"id\": \"257\"\r
+
+    \        },\r
+
+    \        \"bank\": {\r
+
+    \          \"id\": \"0913\",\r
+
+    \          \"branch\": {\r
+
+    \            \"id\": \"0911\"\r
+
+    \          }\r
+
+    \        },\r
+
+    \        \"businessAgent\": {\r
+
+    \          \"id\": \"C783694\"\r
+
+    \        },\r
+
+    \        \"policyNumber\": {\r
+
+    \          \"id\": \"00130913050004947602\"\r
+
+    \        }\r
+
+    \      }\r\n"
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: tsec
+    value: eJxtlLeO61YARH/lYVtil/EyANoFKAZxxSgGMXQMl0EMYhJT5d5/6S/xGrANF24HZ5oB5pzcCaa/vrPPNzzOE5rLyfcYpuCdyij2Pclp+h1iBEzwmMOpHLz9usNxqp7d59tP7e3rJHXpuPfzT8I3xXOs5rL9EiUHZhAVzgJqqYIDrDjLqq44of8Hn4SqL+EoxnP8lfp2nV6EGvOAgy+LfK7R9ED96n7OGyhouidIoobLkCeLw3Wu4t4mVFozWz4akl3one8lqcN0rbfdbfchaMXlcl8AaHxspjHG3/Ay1VUPufULHj4mthL4Yz84cVEDUY1z2tdKJVT0852D1QrxMizcy1w2glJcR1t2nXZjk80DvNxa5ZPLTc6yB3cHCsPMcWqvnIwE4ZzFVdO0WBKwbhds4d24Rjp7qbyBne8Uv11neU1rJKL0jOpJNSemksccAg23YBiBFnTbY0hIoRyIVGGy2fJcr2zrCLUsEe35hEZglVIyrq1VYKlSd649QoLBpWpGTgdiSyoS0mx9SvlFQqH3wbUizgsTwShuYN2/fainRRWscuzPPqJBhvFzUgSZdhtgZxaTLbkR8I7L2ek2zTqz28ST+yoJbXt92vFQ3YQovfWHPAW0LNpM7LQoJeiNR4aCMrKYmTPQxfhnljQZiZPUkGg/K/AjqtMPHwvUgr4dT/yhQaMz0ZvN7h3GP0LzrjqO1BdnAuy+a9zwse9ldWySfUlYjXyOhLsz+DAFiTilWWPM0Bej40VgHZnXK9bnl1X3xAv0RsQV9Tzv/QLmbFQUMMnFUG61xwAsAdrGkb+0tHbaoL5XUuqlquzuBYtJZDWb7eFGrWIO1mJSIkEyQBzFrN5WRSlxSR4mRSzC80avIVOSI7yyhPHClzvpliLCs4srUcT06g+Tkzu8zxH2pp85XfZvaUttrjhc450cgCBds0o01msrjwl8ZdVrfDi5byAjSb7i6OXU2+Mxak4q91OPAC+ppZiwkkSwparDTOAxQJH9mHnpVfdUC3OmKNQoeQTtI4omShXJU2x7XjznO3+IRzfC0gbeHFPRNby/mhGBwHh2hKL2Eet7jUTbe0i0fbZ+D8PFt2atm8vzElK6VDt4bjkdVAu13HCj9JTOzRo7AxtQxuyJdJJDfqvIt25Rt/zVDz3YIAYBqi0JXfTotS85rpRWvfSr0uQ3Otwox8yOtS/WOoMb7TjT5wn9z/H/loAKd76p4umrmZJkmT8y+DFO8cf8o5o/fvv9n8a/1An9y11ffwIkQpsZ
+authentication: {}
+metaSortKey: -1615308688674
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

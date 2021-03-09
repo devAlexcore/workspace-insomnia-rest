@@ -1,0 +1,105 @@
+_id: req_2532e942e2cb45eab8b581341c77f001
+type: Request
+parentId: fld_4f2532714bba485cab2b233ddb11d7d6
+modified: 1615308654681
+created: 1615308654681
+url: https://dev-arqaso.work.co.nextgen.igrupobbva:8050/insurances/v0/insurances/900998766263/collect
+name: ICS8DEV
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: "{\r
+
+    \        \"relatedContract\":    {\r
+
+    \           \"id\": \"ACCOUNTS\",\r
+
+    \           \"product\":       {\r
+
+    \              \"id\": \"00130472020200905652\",\r
+
+    \              \"productType\": {\"id\": \"ACCOUNTS\"}\r
+
+    \           }\r
+
+    \        },\r
+
+    \        \"bank\": {\r
+
+    \           \"id\": \"0913\",\r
+
+    \           \"branch\": {\r
+
+    \             \"id\": \"0913\"\r
+
+    \           }\r
+
+    \         },\r
+
+    \        \"insurancePlanType\": {\"id\": \"444\"},\r
+
+    \         \"fees\": {\r
+
+    \           \"totalFees\": {\r
+
+    \             \"amount\": 0,\r
+
+    \             \"currency\": \"COP\"\r
+
+    \           },\r
+
+    \           \"itemizeFee\": {\r
+
+    \             \"feeAmount\": {\r
+
+    \               \"amount\": 874850,\r
+
+    \               \"currency\": \"COP\"\r
+
+    \             },\r
+
+    \             \"feeFrecuency\": \"MONTHLY\"\r
+
+    \           }\r
+
+    \         },\r
+
+    \        \"businessAgent\": {\"id\": \"C783694\"},\r
+
+    \        \"insuranceCollectAccount\":    {\r
+
+    \           \"id\": \"00130401110200285242\",\r
+
+    \           \"numberType\":       {\r
+
+    \              \"id\": \"CC\",\r
+
+    \              \"number\": 1098704149\r
+
+    \           }\r
+
+    \        },\r
+
+    \        \"policyNumber\": {\r
+
+    \         \"id\": \"00130913050004947605\"\r
+
+    \         }\r
+
+    \      }\r\n"
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: tsec
+    value: eJxtlLdu83YAxF/lg1fCZhdJwDbAXsQmFlHkxt77X2KZsuct8yRxgCTIkO1wuANuud+nt+bpLzX7esPjC4HRafxOx1j6TuQ/isko8h2NsQRPiAvJxMXbr3u+rPU4fL391N6+P8UhXY4J/DhsV45LDar+WxDdPMthnuNh+8q7pB1nWT2Un/D/hT/5eqryRYhB/N09U2Swl5hZsFAiSIFOodFV5pplFLdgtsAV4jkVGZZuqZZeyEewXg3dbIqt2ylxPADMnE5DcD2sMtPrXPvQm1jI9iNXzkj/1T0SbwGiYIchZfTaCertWPPnsDKzJ1uWFdX9UwgOJUrVeR8VnZpIwmzdFF9oQBB2EjllEsIVfy5aodgIrQyOdrzoqA9tma+jkCdHQe9wsaWpRvaEky5jNKTrkjmheiTFwrNoAWXbG0gm2EK323FSWqX14WZIkJ/IcrFDd+zwcz/nyCTtUeJuh0GCBKo7zGOuiGG99D5fa0Q+6fcH2aGNRCX4jJXeyh/OSwSYnAat/hoBcUISbTjlutJWvmAk6BE+1znaHAeNWLOzo5GFCA1G3aOG8irXdvXljE9SRRRWyleDFgOwb6wsSYqORZiM9Y31sz5LKmMvMo6nn495rK6P4OVPE5b1vJzydR86+3wj0Nm4PGqhur4mak5KmF9JVHC5gwga+oqsdk/Ianof7r1wYGLbPUuVBFrpIkOLRIwIVpIEd9rPkiDNRg0Sio30BNdPHZySg9mv7BC4N4NDXQ6XHvVUVAh6ExzXggAcSOVFQ4qCWiVfuHv+dBbmXSIg1iY6YCAC1ZgO3yhI14/e7N0Er9P4NopeTfXg4AbYzp0pdhwxlcO6jnuX8549KTGSMbsPiRMLxNFYjeWqMpClVqWmPsxW7jGnn/GoRVjHGSzQjxvEWDBVX6sRi6KufnmVDlsY4OAb7EOCyF/SGw6DYXezeKW1SmH3LD+WKQiV/NFB67hXZqhf2CWGawud7uPed604j/Nz8gWppabNwPhb8epYTHdhqalSw60ti0AQnNDqegb+PrX+seBd116ftswUStmrKd3kNHJdNmlNW9juJVUcT9KY8vxmOjfVvmybdj56ennKFb7ANMLIAhe3TdghnsdyQdQ9C8DkXOeNq5vdB1znw9g2I6KM9huSEVE215tOFZKJIoOcCq5Ud5OBW/qahCjzTOytyrFRGUzmGmC+MT0c4+sT/s/x/4bANT/Yro7X725Nkhf4yPKPZY0/wA9q/vjt938a/6Y+4b/Y9f0ncmeZlg==
+authentication: {}
+metaSortKey: -1615308654681
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
